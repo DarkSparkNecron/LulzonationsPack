@@ -1,0 +1,554 @@
+Nation 120: Achaoor
+-----------------------------------
+Race: Tusked Ones, some Crustaceans, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Elite sentinel. Sacred heavy ranger.
+Magic: Earth and Astral.
+Priests: Moderate.
+-----------------------------------
+National traits:
+- Ideal cold level -1
+- Giant forts
+- default
+
+Dantih themes: advanced
+Crustacean themes: default, slaver
+
+Troops:
+- Ranged:
+** Achaoorian Champion (Dantih), 70g, 40r, Mace, Chakram, Chain Mail Cuirass.
+--- Ranged unit
+** Avenging Sentinel (Dantih), 85g, 32r, Axe, Chakram, Scale Mail Cuirass, Crown.
+--- patrol and Ranged elite
+- Infantry:
+** Achaoorian Crabman Champion (Crustacean - crabman), 60g, 24r, Metal Glaive, Metal Scale Hauberk.
+--- Infantry unit
+** Achaoorian Crabman Champion (Crustacean - crabman), 60g, 21r, Metal Trident, Metal Scale Hauberk.
+--- Infantry unit
+** Achaoorian Crabman Spear Champion (Crustacean - crabman), 60g, 18r, Bronze Spear, Metal Scale Hauberk.
+--- Infantry unit
+** Achaoorian Falchioneer (Dantih), 70g, 40r, Falchion, Chain Mail Cuirass, Iron Cap, Buckler.
+--- Infantry unit
+** Achaoorian Mace Champion (Dantih), 70g, 32r, Mace, Chain Mail Cuirass, Iron Cap, Buckler.
+--- Infantry unit
+** Achaoorian Axe Champion (Dantih), 70g, 32r, Axe, Chain Mail Cuirass, Iron Cap, Buckler.
+--- Infantry unit
+** Achaoorian Spear Champion (Dantih), 70g, 27r, Long Spear, Scale Mail Cuirass, Iron Shield.
+--- Infantry unit
+- Sacreds:
+** Earth Paladin (Dantih), 110g, 48r, Enchanted Kryss, Blessed Long Bow, Chain Mail Hauberk, Iron Cap.
+--- Capital only, Sacred, fallpower-low and Ranged sacred
+
+Commanders:
+- Scouts:
+** Scout (Dantih), 60g, 20r, Falchion, Scale Mail Cuirass.
+--- Scout
+- Commanders:
+** Axemaster (Dantih), 130g, 35r, Axe, Chain Mail Cuirass, Half Helmet, Buckler.
+--- Infantry unit
+** Commander (Crustacean - crabman), 110g, 24r, Metal Glaive, Metal Scale Hauberk.
+--- Infantry unit
+** Colonel (Dantih), 205g, 43r, Enchanted Kryss, Blessed Long Bow, Chain Mail Hauberk, Crown.
+--- Capital only, Sacred, fallpower-low and Ranged sacred
+- Priests:
+** Ancient Curate (Dantih), 130g, 7r, Kopesh, Robes.
+--- 1H. 
+--- Sacred and 
+- Mages:
+** Fledgling Secret Oracle (Dantih), 105g, 7r, Magic Sceptre, Imperial Robes.
+--- 1E. 
+--- earth
+** Adept Secret Oracle (Dantih), 305g, 7r, Magic Sceptre, Imperial Robes.
+--- 2E 2S 1H. 
+--- Sacred, earth and astral and 
+** Chosen Secret Oracle (Dantih), 570g, 7r, Magic Staff, Imperial Robes.
+--- 4E 2S 2H 1.1? (water, earth, astral, nature). 
+--- Capital only, Sacred, earth and 
+
+Heroes:
+** Hero (Dantih), 0g, 57r, Chakram, Plate Cuirass, Iron Cap.
+--- 2E 1N 1.1? (earth, death, nature, blood). 
+--- Sacred, Hero, regen10 size 5-6 and Ranged sacred
+--- Has wings and is thus able to fly
+** Hero (Dantih), 0g, 1r, Quarterstaff.
+--- 1F 3A 4E. 
+--- Hero, MAGICPICKS, earthele and resource generator 10
+
+Province defence:
+* Commander 1: Axemaster
+* Commander 2: Ancient Curate
+* Troop 1a: Achaoorian Falchioneer - 4 per 10 PD
+* Troop 1b: Achaoorian Crabman Champion - 4 per 10 PD
+* Troop 2a: Achaoorian Crabman Champion - 5 per 10 PD
+* Troop 2b: Achaoorian Crabman Spear Champion - 5 per 10 PD
+
+National spells:
+--------------
+Summon Rakshasas, Feast of Flesh, Summon Asrapas, Summon Rakshasa Warriors, Summon Sandhyabalas, Summon Dakini, Summon Samanishada, Summon Mandeha,
+Summon Danavas, Host of Ganas, Summon Vetalas, Contact Yaksha, Contact Yakshini, Summon Gandharvas, Celestial Music, Summon Kinnara, Summon Siddha, Summon Rudra,
+Summon Devata, Summon Devala
+
+Montag units:
+--------------
+
+Nation 121: Ugpada
+-----------------------------------
+Race: Tusked Ones, some Humans, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Light camel cavalry  and  heavy spider cavalry. Sacred heavy ranger.
+Magic: Earth and Astral.
+Priests: Moderate.
+-----------------------------------
+National traits:
+- Ideal cold level -1
+- Giant forts
+- default
+
+Dantih themes: advanced
+Oriental human themes: default
+
+Magic site features: res75
+
+Troops:
+- Ranged:
+** Ugpadan Bog Champion (Dantih), 70g, 20r, Kryss, Great Bow, Ring Mail Cuirass.
+--- swampunit and Ranged unit
+** Ugpadan Bog Champion (Dantih), 70g, 17r, Kryss, Long Bow, Ring Mail Cuirass.
+--- swampunit and Ranged unit
+- Infantry:
+** Ugpadan Axe Champion (Dantih), 70g, 37r, Axe, Scale Mail Hauberk, Iron Cap, Iron Shield.
+--- Infantry unit
+** Ugpadan Falchion Champion (Dantih), 70g, 45r, Falchion, Scale Mail Hauberk, Iron Cap, Iron Shield.
+--- Infantry unit
+- Cavalry:
+** Ugpadan Human Spider Champion (Oriental human), 95g, 19r, Falchion, Lance, Samurai Armor, Iron Cap, Buckler, Spider mount.
+--- elite +1 and Mounted unit
+--- The hunter spider will persist even if the rider dies.
+** Ugpadan Human Champion (Oriental human), 25g, 9r, Long Spear, Heavy Bronze Lance, Full Leather Armor, Reinforced Leather Cap, Buckler, Camel mount.
+--- Mounted unit
+- Sacreds:
+** Divine Guard (Dantih), 95g, 50r, Kryss, Great Bow, Chain Mail Hauberk, Iron Cap.
+--- Capital only, Sacred and Ranged sacred
+
+Commanders:
+- Scouts:
+** Scout (Dantih), 60g, 4r, Axe, Mace.
+--- Scout
+- Commanders:
+** General (Dantih), 100g, 47r, Falchion, Scale Mail Hauberk, Half Helmet, Iron Shield.
+--- Infantry unit
+** Spearmaster (Oriental human), 65g, 9r, Long Spear, Heavy Bronze Lance, Full Leather Armor, Reinforced Leather Cap, Buckler, Camel mount.
+--- Mounted unit
+** Colonel (Dantih), 210g, 50r, Kryss, Great Bow, Chain Mail Hauberk, Iron Cap.
+--- Capital only, Sacred and Ranged sacred
+- Priests:
+** Acolyte (Dantih), 130g, 2r, Twig, Robes.
+--- 1H. 
+--- Sacred and 
+** High Priest (Dantih), 195g, 2r, Branch, Robes.
+--- 2H. 
+--- Sacred and 
+- Mages:
+** Junior Crystalline Planewalker (Dantih), 180g, 2r, Sceptre, Crown.
+--- 2E. 
+--- earth
+** Crystalline Diviner (Dantih), 240g, 5r, Sceptre, Crown, Robes.
+--- 2E 1S 1.1? (earth, astral, air, death). 
+--- earth
+** Crystalline Fabricator (Dantih), 250g, 2r, Great Club, Crown, Robes.
+--- 2E 1S 1.1? (air, earth, astral, death). 
+--- earth
+** Crystalline Sage (Dantih), 185g, 5r, Sceptre, Crown, Robes.
+--- 2E 1S. 
+--- earth
+** Arch Crystalline Planewalker (Dantih), 430g, 2r, Quarterstaff, Robes, Crown.
+--- 4E 2S 1.1? (air, earth, astral, death). 
+--- Capital only, earth and ethereal2
+
+Heroes:
+** Hero (Dantih), 0g, 1r, Magic Staff.
+--- 3F 1W 4E 1B. 
+--- Hero, MAGICPICKS, resource generator 15, illearth, better researcher +3 - tier 1 and 2 mages, forgebonus 1 primary and majorshockres
+
+Province defence:
+* Commander 1: General
+* Commander 2: Acolyte
+* Troop 1a: Ugpadan Falchion Champion - 3 per 10 PD
+* Troop 1b: Ugpadan Axe Champion - 4 per 10 PD
+* Troop 2a: Ugpadan Human Spider Champion - 3 per 10 PD
+* Troop 2b: Ugpadan Bog Champion - 4 per 10 PD
+
+National spells:
+--------------
+Contact Yaksha, Contact Yakshini, Summon Gandharvas, Celestial Music, Summon Kinnara, Summon Siddha, Summon Rudra, Summon Devata, Summon Devala,
+Contact Scorpion Man
+
+Montag units:
+--------------
+
+Nation 122: Rawjayalur
+-----------------------------------
+Race: Tusked Ones, some Ophidians, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Sacred heavy infantry and heavy infantry.
+Magic: Earth and Astral.
+Priests: Strong, temples cost 300 gold.
+-----------------------------------
+National traits:
+- Ideal cold level -1
+- Giant forts
+- default
+- Temples cost 300 gold
+
+Dantih themes: advanced
+Ophidian themes: mountain_serpent, austral, primitive
+
+Troops:
+- Ranged:
+** Rawjayalurian Longbow Champion (Dantih), 70g, 40r, Falchion, Long Bow, Chain Mail Cuirass.
+--- castledef +1 and Ranged unit
+** Rawjayalurian Champion (Dantih), 70g, 47r, Falchion, Chakram, Chain Mail Cuirass.
+--- castledef +1 and Ranged unit
+- Infantry:
+** Rawjayalurian Ophidian Swordsman (Ophidian), 11g, 12r, Short Sword, Ice Studded Armor, Shell Cap, Hoplon.
+--- patroller 1 and Infantry unit
+** Rawjayalurian Ophidian Champion (Ophidian), 11g, 13r, Ice Glaive, Ice Studded Armor, Shell Cap.
+--- patroller 1 and Infantry unit
+** Rawjayalurian Swordsman (Dantih), 85g, 25r, Kryss, Falchion, Ring Mail Hauberk.
+--- pillager stealthy and Infantry unit
+** Rawjayalurian Spearman (Dantih), 85g, 25r, Long Spear, Ring Mail Hauberk, Iron Shield.
+--- pillager stealthy and Infantry unit
+** Rawjayalurian Heavy Spearman (Dantih), 70g, 35r, Long Spear, Scale Mail Hauberk, Iron Shield.
+--- Infantry unit
+- Sacreds:
+** Hierophant of Brass (Dantih), 100g, 42r, Exceptional Spear, Chain Mail Hauberk, Iron Cap, Buckler.
+--- Capital only, Sacred, reinvig 2 and Infantry sacred
+** Just Vindicator (Dantih), 105g, 57r, Spear, Full Chain Mail, Iron Cap, Iron Shield.
+--- Capital only, Sacred, minoreelemental and Infantry sacred
+
+Commanders:
+- Scouts:
+** Scout (Dantih), 60g, 6r, Kryss, Kryss, Leather Cuirass.
+--- Scout
+- Commanders:
+** Falchion Commander (Dantih), 145g, 25r, Kryss, Falchion, Ring Mail Hauberk.
+--- pillager stealthy and Infantry unit
+** Swordsmaster (Ophidian), 60g, 12r, Short Sword, Ice Studded Armor, Shell Cap, Hoplon.
+--- patroller 1 and Infantry unit
+** Spearmaster (Dantih), 175g, 37r, Exceptional Spear, Chain Mail Hauberk, Crown, Buckler.
+--- Sacred, reinvig 2 and Infantry sacred
+- Priests:
+** Neophyte (Dantih), 130g, 5r, Wand, Iron Cap.
+--- 1H. 
+--- Sacred and 
+** Vicar (Dantih), 195g, 1r, Magic Sceptre.
+--- 2H. 
+--- Sacred and 
+** High Priest (Dantih), 275g, 1r, Magic Staff.
+--- 3H. 
+--- Sacred,  and sailing
+- Mages:
+** Inferior Battle Engraver (Dantih), 125g, 2r, Wand, Crown, Robes.
+--- 1E 1S. 
+--- earth and astral
+** Major Battle Engraver (Dantih), 200g, 2r, Wand, Crown, Robes.
+--- 2E 1S. 
+--- earth
+** Elder Battle Engraver (Dantih), 490g, 2r, Magic Sceptre, Robes, Crown.
+--- 4E 2S 1.1? (fire, earth, astral, nature). 
+--- earth, floating and can shapeshift into a werebear
+
+Heroes:
+** Hero (Dantih), 0g, 2r, Magic Staff, Robes, Crown.
+--- 1F 1A 4E 3D. 
+--- Hero, MAGICPICKS, better researcher +3 - tier 3 mages and illusion
+** Hero (Fir Bolg), 0g, 12r, Just Bronze Axe, Javelin, Bronze Scale Cuirass.
+--- 2F. 
+--- Hero, metalman: size 1, stealthlow, pillage, castlemaster and Ranged elite
+
+Province defence:
+* Commander 1: Falchion Commander
+* Commander 2: Swordsmaster
+* Troop 1a: Rawjayalurian Heavy Spearman - 4 per 10 PD
+* Troop 1b: Rawjayalurian Champion - 3 per 10 PD
+* Troop 2a: Rawjayalurian Longbow Champion - 4 per 10 PD
+* Troop 2b: Rawjayalurian Ophidian Swordsman - 18 per 10 PD
+
+National spells:
+--------------
+Contact Yaksha, Contact Yakshini, Summon Gandharvas, Celestial Music, Summon Kinnara, Summon Siddha, Summon Rudra, Summon Devata, Summon Devala, Reawaken Fossil
+
+Montag units:
+--------------
+
+Nation 123: Dholranghati
+-----------------------------------
+Race: Tusked Ones, some Primates, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Elite champion. Sacred Primate heavy infantry.
+Magic: Earth and Astral.
+Priests: Weak.
+-----------------------------------
+National traits:
+- Ideal cold level -1
+- Giant forts
+- default
+
+Dantih themes: advanced
+Primate themes: lowland, oriental, default
+
+Troops:
+- Ranged:
+** Dholranghatian Bandar Champion (Primate - bandar), 16g, 22r, Club, Long Bow, Samurai Armor, Jingasa.
+--- Ranged unit
+** Dholranghatian Champion (Dantih), 70g, 35r, Axe, Great Bow, Scale Mail Hauberk.
+--- castledef +1 and Ranged unit
+** Avenging Champion (Dantih), 70g, 40r, Axe, Chakram, Scale Mail Hauberk, Crown.
+--- Capital only, sieger and Ranged elite
+- Infantry:
+** Dholranghatian Bandar Falchion Champion (Primate - bandar), 16g, 25r, Falchion, Samurai Armor, Jingasa, Great Hide Shield.
+--- Infantry unit
+** Dholranghatian Spear Champion (Dantih), 70g, 32r, Spear, Chain Mail Cuirass, Iron Shield.
+--- Infantry unit
+** Dholranghatian Champion (Dantih), 70g, 30r, Battleaxe, Chain Mail Cuirass.
+--- Infantry unit
+** Dholranghatian Falchion Champion (Dantih), 70g, 40r, Falchion, Chain Mail Cuirass, Iron Shield.
+--- Infantry unit
+** Dholranghatian Heavy Spear Champion (Dantih), 70g, 40r, Long Spear, Scale Mail Hauberk, Iron Cap, Iron Shield.
+--- Infantry unit
+- Sacreds:
+** Thane of Diamond (Primate - vanara), 16g, 21r, Sticks and Stones, Enchanted Wakizashi, Full Scale Mail, Leather Cap, Buckler.
+--- Capital only, Sacred and Infantry sacred
+
+Commanders:
+- Scouts:
+** Spy (Dantih), 80g, 6r, Mace, Mace, Leather Cuirass.
+--- Spy
+- Commanders:
+** Falchion Lord (Dantih), 130g, 40r, Falchion, Chain Mail Cuirass, Iron Shield.
+--- Infantry unit
+** Spearmaster (Dantih), 130g, 42r, Long Spear, Scale Mail Hauberk, Half Helmet, Iron Shield.
+--- Infantry unit
+** Wakizasi Commander (Primate - vanara), 80g, 23r, Sticks and Stones, Enchanted Wakizashi, Full Scale Mail, Iron Cap, Buckler.
+--- Capital only, Sacred and Infantry sacred
+- Priests:
+** Grand Deacon (Dantih), 145g, 2r, Great Club, Robes.
+--- 1H. 
+--- Sacred and 
+- Mages:
+** Initiate Crystalline Golemcrafter (Dantih), 105g, 2r, Wand, Robes.
+--- 1E. 
+--- earth
+**  Crystalline Golemcrafter (Dantih), 195g, 2r, Magic Sceptre, Robes.
+--- 1E 2.5? (fire, earth, astral, death). 
+--- earth and resourcebonus
+** Adept Crystalline Golemcrafter (Dantih), 545g, 2r, Magic Sceptre, Robes.
+--- 4E 2S 1H 1.1? (fire, earth, astral, death). 
+--- Capital only, Sacred, earth and 
+
+Heroes:
+** Hero (Dantih), 0g, 2r, Magic Staff, Robes, Crown.
+--- 2A 1W 4E 3N. 
+--- Hero, MAGICPICKS, illusion, majorcoldres, resource generator 15, bugs, can shapeshift into a cave crab and ivylord 1
+** Hero (Dantih), 0g, 32r, Exceptional Spear, Scale Mail Hauberk, Crown, Iron Shield.
+--- 1F 1A 1E. 
+--- Sacred, Hero, sun awe and Infantry sacred
+** Hero (Dantih), 0g, 7r, Wand, Imperial Robes, Crown.
+--- 4E 3D 1B. 
+--- Hero, MAGICPICKS, resource generator 15 and illearth
+
+Province defence:
+* Commander 1: Falchion Lord
+* Commander 2: Grand Deacon
+* Troop 1a: Dholranghatian Heavy Spear Champion - 4 per 10 PD
+* Troop 1b: Avenging Champion - 4 per 10 PD
+* Troop 2a: Dholranghatian Bandar Falchion Champion - 11 per 10 PD
+* Troop 2b: Dholranghatian Spear Champion - 4 per 10 PD
+
+National spells:
+--------------
+Contact Scorpion Man, Reawaken Fossil
+
+Montag units:
+--------------
+
+Nation 124: Naka
+-----------------------------------
+Race: Tusked Ones, prefers Heat scale +1.
+Military: Heavy infantry. Sacred heavy infantry.
+Magic: Earth and Astral. Some Young Curate of the Song mages. Some  Curate of the Song mages.
+Priests: Weak, temples cost 500 gold.
+-----------------------------------
+National traits:
+- Ideal cold level -1
+- Giant forts
+- Temples cost 500 gold
+- default
+
+Dantih themes: advanced, slaver
+Van themes: patriarchal, primitive, default
+
+Magic site features: res75
+
+Troops:
+- Infantry:
+** Nakan Irregular Guard (Dantih), 40g, 18r, Kryss, Chakram, Scale Mail Cuirass.
+--- castledef 2 and Infantry unit
+** Nakan Club Bandit (Dantih), 70g, 32r, Iron Cudgel, Scale Mail Hauberk, Iron Cap.
+--- pillager and Infantry unit
+** Nakan Bandit (Dantih), 70g, 37r, Spear, Scale Mail Hauberk, Iron Cap, Iron Shield.
+--- pillager and Infantry unit
+** Nakan Axe Champion (Dantih), 70g, 62r, Battleaxe, Plate Hauberk, Bronze Cap.
+--- Infantry unit
+** Nakan Champion (Dantih), 70g, 60r, Spear, Plate Hauberk, Bronze Cap, Buckler.
+--- Infantry unit
+- Sacreds:
+** Unwavering Champion (Dantih), 125g, 67r, Axe, Plate Hauberk, Half Helmet, Iron Shield.
+--- Capital only, Sacred, slashres and Infantry sacred
+
+Commanders:
+- Scouts:
+** Spy (Dantih), 80g, 14r, Mace, Scale Mail Cuirass.
+--- Spy
+- Commanders:
+** Spearmaster (Dantih), 100g, 60r, Spear, Plate Hauberk, Bronze Half Helmet, Buckler.
+--- Infantry unit
+** Lieutenant (Dantih), 130g, 62r, Battleaxe, Plate Hauberk, Bronze Half Helmet.
+--- Infantry unit
+- Priests:
+** High Priest (Dantih), 145g, 1r, Ritual Baton.
+--- 1H. 
+--- Sacred,  and inquisitor
+- Mages:
+** Young Curate of the Song (Van), 110g, 4r, Dagger, Iron Cap, Robes, Buckler.
+--- 2E. 
+--- slave and earth
+**  Curate of the Song (Van), 145g, 16r, Hammer, Half Helmet, Chain Mail Cuirass, Shield, Horse mount.
+--- 2E 1S. 
+--- slave and earth
+** Greater Curate of the Song (Dantih), 545g, 2r, Wand, Robes, Crown.
+--- 4E 2S 1H 1.1? (water, earth, astral, nature). 
+--- Capital only, Sacred, earth and 
+
+Heroes:
+** Hero (Dantih), 0g, 60r, Axe, Full Chain Mail, Half Helmet, Iron Shield.
+--- Sacred, Hero, glamour, heat and Infantry sacred
+
+Province defence:
+* Commander 1: Spearmaster
+* Commander 2: Lieutenant
+* Troop 1a: Nakan Bandit - 4 per 10 PD
+* Troop 1b: Nakan Irregular Guard - 6 per 10 PD
+* Troop 1c: Nakan Bandit - 4 per 10 PD
+* Troop 2a: Nakan Club Bandit - 4 per 10 PD
+* Troop 2b: Nakan Axe Champion - 3 per 10 PD
+
+National spells:
+--------------
+Contact Yaksha, Contact Yakshini, Summon Gandharvas, Celestial Music, Summon Kinnara, Summon Siddha, Summon Rudra, Summon Devata, Summon Devala,
+Contact Scorpion Man, Reawaken Fossil
+
+Montag units:
+--------------
+
+Nation 125: Bawabad
+-----------------------------------
+Race: Tusked Ones, some Crustaceans, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Sacred heavy skirmisher.
+Magic: Earth and Astral. Some Novice of the Occult Communion mages. Some Personalshaper of the Occult Communion mages. Some Stargazer of the Occult Communion mages.
+Priests: Moderate, temples cost 500 gold.
+-----------------------------------
+National traits:
+- Ideal cold level -1
+- Fortified cities
+- Temples cost 500 gold
+
+Dantih themes: advanced, slaver
+Crustacean themes: default
+
+Magic site features: xp 1
+
+Troops:
+- Ranged:
+** Bawabadish Champion (Dantih), 70g, 40r, Axe, Chakram, Scale Mail Hauberk.
+--- Ranged unit
+- Infantry:
+** Bawabadish Crabman Slave Champion (Crustacean - crabman), 55g, 16r, Metal Trident, Metal Scale Cuirass.
+--- slave, forestunit and Infantry unit
+** Bawabadish Crabman Slave Spearman (Crustacean - crabman), 55g, 13r, Bronze Spear, Metal Scale Cuirass.
+--- slave, forestunit and Infantry unit
+** Bawabadish Heavy Crabman Slave Champion (Crustacean - crabman), 27g, 21r, Metal Trident, Metal Scale Hauberk.
+--- slave and Infantry unit
+** Bawabadish Heavy Crabman Slave Champion (Crustacean - crabman), 27g, 19r, Metal Yari, Metal Scale Hauberk.
+--- slave and Infantry unit
+** Bawabadish Heavy Crabman Slave Spearman (Crustacean - crabman), 27g, 18r, Bronze Spear, Metal Scale Hauberk.
+--- slave and Infantry unit
+** Bawabadish Irregular Champion (Dantih), 40g, 24r, Axe, Chakram, Chain Mail Cuirass.
+--- Infantry unit
+** Bawabadish Mace Champion (Dantih), 70g, 27r, Mace, Scale Mail Hauberk, Buckler.
+--- Infantry unit
+** Bawabadish Axe Champion (Dantih), 70g, 30r, Battleaxe, Scale Mail Hauberk.
+--- Infantry unit
+** Furious Thane (Dantih), 70g, 50r, Long Spear, Chain Mail Hauberk, Iron Cap, Iron Shield.
+--- Capital only, castlemaster, berserklowest and Infantry elite
+- Sacreds:
+** Exalted Vindicator (Dantih), 135g, 70r, Chakram, Plate Hauberk, Iron Cap.
+--- Capital only, Sacred, pillage, sieger and Ranged sacred
+--- Has wings and is thus able to fly
+
+Commanders:
+- Scouts:
+** Assassin (Dantih), 80g, 4r, Kryss, Kryss.
+--- Assassin
+- Commanders:
+** Master Champion (Dantih), 135g, 27r, Mace, Scale Mail Hauberk, Buckler.
+--- Infantry unit
+** Captain (Crustacean - crabman), 105g, 13r, Bronze Spear, Metal Scale Cuirass.
+--- slave, forestunit and Infantry unit
+** Lieutenant (Dantih), 310g, 72r, Chakram, Plate Hauberk, Half Helmet.
+--- Capital only, Sacred, pillage, sieger and Ranged sacred
+--- Has wings and is thus able to fly
+- Special commanders:
+** Prevaricator (Crustacean - crabman), 90g, 4r, Metal Staff, Robes.
+--- uses false logic to preach against any religion.
+- Priests:
+** Junior Communicant (Dantih), 170g, 1r, Quarterstaff.
+--- 1H. 
+--- Sacred, , elegist 3 and stealthy
+** Adept Communicant (Dantih), 235g, 2r, Quarterstaff, Robes.
+--- 2H. 
+--- Sacred, , elegist 3 and stealthy
+- Mages:
+** Novice of the Occult Communion (Crustacean - crabman), 85g, 4r, Metal Staff, Robes.
+--- 1.1? (fire, earth, astral, nature). 
+--- slave and various
+** Personalshaper of the Occult Communion (Crustacean - crabman), 200g, 7r, Metal Staff, Imperial Robes.
+--- 2E 1.1? (fire, earth, astral, nature). 
+--- slave and earth
+** Stargazer of the Occult Communion (Crustacean - crabman), 185g, 7r, Metal Yari, Imperial Robes.
+--- 2S 1.1? (fire, earth, astral, nature). 
+--- slave and astral
+** Father of the Occult Communion (Dantih), 535g, 2r, Magic Staff, Robes.
+--- 4E 2S 1.1? (fire, earth, astral, nature). 
+--- Capital only, Sacred, earth and resource generator 25
+
+Heroes:
+** Hero (Dantih), 0g, 28r, Enchanted Axe, Scale Mail Cuirass, Crown, Iron Shield.
+--- 1E. 
+--- Sacred, Hero, berserkhigh, amphibian and Infantry sacred
+** Hero (Dantih), 0g, 25r, Exceptional Long Bow, Scale Mail Cuirass, Crown.
+--- Sacred, Hero, regen10 size 5-6 and Ranged sacred
+--- Has wings and is thus able to fly
+
+Province defence:
+* Commander 1: Master Champion
+* Commander 2: Adept Communicant
+* Troop 1a: Bawabadish Crabman Slave Champion - 5 per 10 PD
+* Troop 1b: Bawabadish Crabman Slave Spearman - 5 per 10 PD
+* Troop 2a: Bawabadish Heavy Crabman Slave Champion - 9 per 10 PD
+* Troop 2b: Bawabadish Heavy Crabman Slave Champion - 10 per 10 PD
+
+National spells:
+--------------
+Contact Yaksha, Contact Yakshini, Summon Gandharvas, Celestial Music, Summon Kinnara, Summon Siddha, Summon Rudra, Summon Devata, Summon Devala,
+Contact Scorpion Man
+
+Montag units:
+--------------
+

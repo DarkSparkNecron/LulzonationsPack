@@ -1,0 +1,105 @@
+Nation 120: Cinmer
+-----------------------------------
+Race: Ogres, some Fir Bolgs, prefers Cold scale +1.
+Military: Light infantry and heavy infantry. Light elk cavalry. Sacred heavy infantry.
+Magic: Fire, Astral and Death.
+Priests: Moderate, temples cost 500 gold.
+
+Nation 121: Orque
+-----------------------------------
+Race: Humans.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Fire, Air and Water. Weak Death.
+Priests: Weak.
+
+Nation 122: Zandanugha
+-----------------------------------
+Race: Illithids, some Bakemonos.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Water. Weak Air, Astral and Nature. Some Follower of the Solemn Congregation mages. Some Bishop of the Solemn Congregation mages. Some Vapormancer of the Solemn Congregation mages.
+Priests: Strong.
+
+Nation 123: Sardavaz
+-----------------------------------
+Race: Caelians, prefers Cold scale +1.
+Military: Heavy infantry. Champions. Sacred light ranger.
+Magic: Fire and Earth. Weak Death and Blood.
+Priests: Weak, temples cost 600 gold.
+
+Nation 124: Tlalhuapa
+-----------------------------------
+Race: Atlantians, some Lizards, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Light crocodile cavalry. Sacred Lizard heavy infantry and heavy infantry.
+Magic: Fire. Weak Air, Water, Earth, Astral and Nature.
+Priests: Moderate.
+
+Nation 125: Hassor
+-----------------------------------
+Race: Humans, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Auxiliaries. Sacred heavy ranger.
+Magic: Fire and Astral. Laboratories cost 600 gold.
+Priests: Strong.
+
+Nation 126: Visyamgar
+-----------------------------------
+Race: Nagas, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry and heavy infantry.
+Magic: Air and Earth. Weak Water, Death and Blood.
+Priests: Weak.
+
+Nation 127: Tetlan
+-----------------------------------
+Race: Zotzs, prefers Heat scale +1.
+Military: Light infantry. Champions. Light jaguar cavalry. Sacred light infantry and light infantry.
+Magic: Nature. Weak Air, Earth, Astral and Blood.
+Priests: Moderate.
+
+Nation 128: Shangririsoi
+-----------------------------------
+Race: Pale Ones.
+Military: Light infantry and heavy infantry. Champions. Heavy drake  and  cave grub cavalry. Sacred heavy infantry.
+Magic: Fire and Earth. Weak Water, Death and Blood.
+Priests: Moderate.
+
+Nation 129: Harsorton
+-----------------------------------
+Race: Humans, some Avvites, prefers Heat scale +3.
+Military: Heavy infantry. Light cavalry  and  heavy moose cavalry. Chariots. Sacred heavy chariot.
+Magic: Fire and Death. Weak Water and Earth. Some Harsortonan Pyromancer mages. Some Apprentice Igniter of the Plague mages. Some Apprentice Igniter of Seas mages.
+Priests: Strong.
+
+Nation 130: Borgheim
+-----------------------------------
+Race: Vaettis, some Humans, prefers Cold scale +2.
+Military: Light infantry and heavy infantry. Champions. Sacred light ranger.
+Magic: Death. Weak Blood.
+Priests: Weak, can reanimate the dead.
+
+Nation 131: Tanedyer
+-----------------------------------
+Race: Abysians, some Ogres.
+Military: Heavy infantry. Champions. Heavy cavalry. Sacred Ogre heavy infantry.
+Magic:  Weak Fire, Water and Blood.
+Priests: Strong.
+
+Nation 132: Abbka
+-----------------------------------
+Race: Humans, some Atlantians, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Champions. Light horse  and  spider cavalry. Sacred light ranger.
+Magic: Air. Weak Water, Astral and Death. Some High Omnipotent Necromancer mages.
+Priests: Moderate.
+
+Nation 133: Caoligh
+-----------------------------------
+Race: Fomorians, some Fir Bolgs, prefers Cold scale +1.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Water and Death. Weak Blood.
+Priests: Strong, can perform blood sacrifices.
+
+Nation 134: Acaikos
+-----------------------------------
+Race: Ophidians, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Sacred heavy infantry and light infantry.
+Magic: Earth. Weak Water, Astral, Death, Nature and Blood.
+Priests: Moderate, temples cost 800 gold.
+

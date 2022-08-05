@@ -1,0 +1,42 @@
+Nation 120: Achaoor
+-----------------------------------
+Race: Tusked Ones, some Crustaceans, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Elite sentinel. Sacred heavy ranger.
+Magic: Earth and Astral.
+Priests: Moderate.
+
+Nation 121: Ugpada
+-----------------------------------
+Race: Tusked Ones, some Humans, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Light camel cavalry  and  heavy spider cavalry. Sacred heavy ranger.
+Magic: Earth and Astral.
+Priests: Moderate.
+
+Nation 122: Rawjayalur
+-----------------------------------
+Race: Tusked Ones, some Ophidians, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Sacred heavy infantry and heavy infantry.
+Magic: Earth and Astral.
+Priests: Strong, temples cost 300 gold.
+
+Nation 123: Dholranghati
+-----------------------------------
+Race: Tusked Ones, some Primates, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Elite champion. Sacred Primate heavy infantry.
+Magic: Earth and Astral.
+Priests: Weak.
+
+Nation 124: Naka
+-----------------------------------
+Race: Tusked Ones, prefers Heat scale +1.
+Military: Heavy infantry. Sacred heavy infantry.
+Magic: Earth and Astral. Some Young Curate of the Song mages. Some  Curate of the Song mages.
+Priests: Weak, temples cost 500 gold.
+
+Nation 125: Bawabad
+-----------------------------------
+Race: Tusked Ones, some Crustaceans, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Sacred heavy skirmisher.
+Magic: Earth and Astral. Some Novice of the Occult Communion mages. Some Personalshaper of the Occult Communion mages. Some Stargazer of the Occult Communion mages.
+Priests: Moderate, temples cost 500 gold.
+

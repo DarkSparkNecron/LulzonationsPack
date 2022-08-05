@@ -1,0 +1,1449 @@
+Nation 120: Cinmer
+-----------------------------------
+Race: Ogres, some Fir Bolgs, prefers Cold scale +1.
+Military: Light infantry and heavy infantry. Light elk cavalry. Sacred heavy infantry.
+Magic: Fire, Astral and Death.
+Priests: Moderate, temples cost 500 gold.
+-----------------------------------
+National traits:
+- Ideal cold level 1
+- Temples cost 500 gold
+
+Ogre themes: ogre, advanced
+Fir Bolg themes: bronze, default
+
+Magic site features: ghost summoning
+
+Troops:
+- Infantry:
+** Cinmeran Fir Bolg Spearman (Fir Bolg), 13g, 5r, Bronze Spear, Leather Hauberk, Shield.
+--- Infantry unit
+** Cinmeran Morningstar Champion (Ogre), 20g, 18r, Morningstar, Scale Mail Cuirass, Reinforced Leather Cap, Iron Shield.
+--- Infantry unit and poison resistance
+** Cinmeran Hammer Champion (Ogre), 20g, 18r, Hammer, Scale Mail Cuirass, Reinforced Leather Cap, Iron Shield.
+--- Infantry unit and poison resistance
+** Cinmeran Falchioneer (Ogre), 20g, 21r, Falchion, Scale Mail Cuirass, Reinforced Leather Cap, Iron Shield.
+--- Infantry unit and poison resistance
+** Cinmeran Heavy Hammer Champion (Ogre), 20g, 39r, Hammer, Plate Hauberk, Half Helmet, Buckler.
+--- Infantry unit and poison resistance
+** Cinmeran Heavy Falchioneer (Ogre), 20g, 42r, Falchion, Plate Hauberk, Half Helmet, Buckler.
+--- Infantry unit and poison resistance
+** Cinmeran Heavy Morningstar Champion (Ogre), 20g, 39r, Morningstar, Plate Hauberk, Half Helmet, Buckler.
+--- Infantry unit and poison resistance
+** Cinmeran Swamp Champion (Ogre), 20g, 27r, Hammer, Chain Mail Hauberk, Reinforced Leather Cap, Shield.
+--- swampunit, Infantry unit and poison resistance
+- Cavalry:
+** Cinmeran Fir Bolg Champion (Fir Bolg), 35g, 22r, Bronze Spear, Bronze Cuirass, Hoplon, Elk mount.
+--- Mounted unit
+--- Leaves an elk behind when the rider dies
+- Sacreds:
+** Plane Guard (Ogre), 90g, 18r, Exceptional Flail, Scale Mail Cuirass, Crested Helmet.
+--- Capital only, Sacred, incunrest_high, ethereal, resistances_fire, deathpower, Infantry sacred and poison resistance
+
+Commanders:
+- Scouts:
+** Scout (Ogre), 40g, 24r, Broad Sword, Chain Mail Hauberk, Leather Hood.
+--- Scout and poison resistance
+- Commanders:
+** Sergeant (Ogre), 50g, 21r, Falchion, Scale Mail Cuirass, Reinforced Leather Cap, Iron Shield.
+--- Infantry unit and poison resistance
+** General (Ogre), 80g, 27r, Hammer, Chain Mail Hauberk, Reinforced Leather Cap, Shield.
+--- swampunit, Infantry unit and poison resistance
+** Castellan (Fir Bolg), 65g, 22r, Bronze Spear, Bronze Cuirass, Hoplon, Elk mount.
+--- Mounted unit
+--- Leaves an elk behind when the rider dies
+- Priests:
+** Apprentice Monk (Ogre), 65g, 6r, Broad Sword, Leather Cap, Robes.
+--- 1H. 
+--- Sacred,  and poison resistance
+** Chosen Monk (Ogre), 130g, 1r, Quarterstaff, Robes, Leather Cap.
+--- 2H. 
+--- Sacred,  and poison resistance
+- Mages:
+** Gibbering Lord (Ogre), 240g, 1r, Quarterstaff, Robes, Leather Cap.
+--- 3S 1.1? (air, water, astral, death). 
+--- Capital only, astral and poison resistance
+** Cinmeran Poet (Ogre), 55g, 4r, Short Sword, Leather Hood, Robes.
+--- 1.1? (fire, earth, death, nature). 
+--- various and poison resistance
+** Major Medium of the Grave (Ogre), 165g, 1r, Quarterstaff, Leather Hood, Robes.
+--- 2D 1.1? (fire, earth, death, nature). 
+--- death and poison resistance
+** Major Medium of the Peaks (Ogre), 165g, 1r, Quarterstaff, Leather Hood, Robes.
+--- 2F 1.1? (fire, earth, death, nature). 
+--- fire and poison resistance
+** Supreme Medium of the Grave (Ogre), 240g, 1r, Quarterstaff, Robes, Leather Hood.
+--- 3D 1.1? (fire, earth, death, nature). 
+--- Capital only, death and poison resistance
+** Supreme Medium of the Peaks (Ogre), 225g, 1r, Quarterstaff, Robes, Leather Hood.
+--- 3F 1.1? (fire, earth, death, nature). 
+--- Capital only, fire and poison resistance
+
+Heroes:
+** Hero (Ogre), 0g, 22r, Exceptional Broad Sword, Scale Mail Hauberk, Iron Cap, Buckler.
+--- Sacred, Hero, can shapeshift into a werehyena, resistances_fire, cold, Infantry sacred and poison resistance
+** Hero (Ogre), 0g, 31r, Enchanted Machaka Spear, Scale Mail Hauberk, Crested Helmet, Iron Shield.
+--- 3F. 
+--- Hero, can shapeshift into a werehyena, sieger, Infantry elite and poison resistance
+** Hero (Ogre), 0g, 1r, Quarterstaff, Robes, Leather Hood.
+--- 3F 2W 3D 1B. 
+--- Hero, MAGICPICKS, deathrec, lowupkeep, cold resource generator 10 and poison resistance
+
+Province defence:
+* Commander 1: Sergeant
+* Commander 2: General
+* Troop 1a: Cinmeran Heavy Falchioneer - 5 per 10 PD
+* Troop 1b: Cinmeran Fir Bolg Spearman - 13 per 10 PD
+* Troop 2a: Cinmeran Morningstar Champion - 8 per 10 PD
+* Troop 2b: Cinmeran Hammer Champion - 8 per 10 PD
+
+National spells:
+--------------
+Summon Morrigan, Dance of the Morrigans
+
+Montag units:
+--------------
+
+Nation 121: Orque
+-----------------------------------
+Race: Humans.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Fire, Air and Water. Weak Death.
+Priests: Weak.
+-----------------------------------
+National traits:
+- default
+
+Advanced human themes: human, default
+Caelian themes: diverse, iron, default
+
+Troops:
+- Ranged:
+** Orquean Champion (Advanced human), 10g, 17r, Kopesh, Long Bow, Samurai Armor, Iron Cap.
+--- Ranged unit, poison resistance and Myopic
+- Infantry:
+** Orquean Champion (Advanced human), 12g, 22r, Falchion, Full Scale Mail, Half Helmet, Iron Shield.
+--- elite +1, Infantry unit, poison resistance and Myopic
+** Orquean Trident Champion (Advanced human), 10g, 28r, Short Trident, Plate Hauberk, Iron Cap, Kite Shield.
+--- patroller 1, Infantry unit, poison resistance and Myopic
+** Orquean Morningstar Champion (Advanced human), 10g, 28r, Morningstar, Plate Hauberk, Iron Cap, Kite Shield.
+--- patroller 1, Infantry unit, poison resistance and Myopic
+** Orquean Sword Champion (Advanced human), 10g, 9r, Great Sword, Full Leather Armor, Reinforced Leather Cap.
+--- Infantry unit, poison resistance and Myopic
+** Orquean Hammer Champion (Advanced human), 10g, 7r, Hammer, Full Leather Armor, Reinforced Leather Cap, Buckler.
+--- Infantry unit, poison resistance and Myopic
+- Sacreds:
+** Paragon of Frost (Advanced human), 24g, 20r, Falchion, Chain Mail Hauberk, Leather Cap, Hoplon.
+--- Capital only, Sacred, minorwelemental, Infantry sacred, poison resistance and Myopic
+
+Commanders:
+- Scouts:
+** Scout (Advanced human), 30g, 3r, Short Sword, Leather Cuirass, Leather Hood.
+--- Scout, poison resistance and Myopic
+- Commanders:
+** Swordsmaster (Advanced human), 50g, 9r, Great Sword, Full Leather Armor, Reinforced Leather Cap.
+--- Infantry unit, poison resistance and Myopic
+** Captain (Advanced human), 130g, 22r, Falchion, Full Scale Mail, Half Helmet, Iron Shield.
+--- elite +1, Infantry unit, poison resistance and Myopic
+- Priests:
+** Arch Bishop (Advanced human), 65g, 3r, Short Sword, Leather Cuirass.
+--- 1H. 
+--- Sacred, , nobadevents 10, elegist 3, poison resistance and Myopic
+- Mages:
+** Breeze Lord (Advanced human), 160g, 4r, Bronze Trident, Leather Cuirass, Leather Cap.
+--- 2A 1.1? (air, water, astral, nature). 
+--- Capital only, air, illusion, poison resistance and Myopic
+** Follower of the Acidic Mysteries (Advanced human), 85g, 1r, Quarterstaff, Leather Cuirass.
+--- 1F 1W 1D. 
+--- fire, water, and death, poison resistance and Myopic
+** Sorcerer of the Acidic Mysteries (Advanced human), 175g, 3r, Kopesh, Leather Cuirass.
+--- 1F 2W 1.1? (fire, water, astral, death). 
+--- water, fireres, majorcoldres, poison resistance and Myopic
+** Patriarch of the Acidic Mysteries (Advanced human), 405g, 1r, Leather Cuirass.
+--- 2F 3W 1.1? (fire, water, astral, death). 
+--- Capital only, Sacred, water, coldres, majorcoldres, poison resistance and Myopic
+
+Heroes:
+** Hero (Advanced human), 0g, 3r, Short Sword, Leather Cuirass.
+--- 4W 2S 1D. 
+--- Hero, MAGICPICKS, ghoul: size 2, amphibian, floating, poison resistance and Myopic
+** Hero (Advanced human), 0g, 16r, Unholy Mace, Full Leather Armor, Leather Cap, Kite Shield, Horse mount.
+--- Sacred, Hero, incunrest_high, glamour, Mounted sacred, poison resistance and Myopic
+
+Province defence:
+* Commander 1: Swordsmaster
+* Commander 2: Captain
+* Troop 1a: Orquean Champion - 9 per 10 PD
+* Troop 1b: Orquean Champion - 11 per 10 PD
+* Troop 2a: Orquean Trident Champion - 8 per 10 PD
+* Troop 2b: Orquean Morningstar Champion - 8 per 10 PD
+
+National spells:
+--------------
+Wrath of the Ancestors, Call Ancestor
+
+Montag units:
+--------------
+
+Nation 122: Zandanugha
+-----------------------------------
+Race: Illithids, some Bakemonos.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Water. Weak Air, Astral and Nature. Some Follower of the Solemn Congregation mages. Some Bishop of the Solemn Congregation mages. Some Vapormancer of the Solemn Congregation mages.
+Priests: Strong.
+-----------------------------------
+National traits:
+- Can build forts underwater
+- default
+
+Illithid themes: default
+Ogre themes: bakemono, primitive
+
+Troops:
+- Ranged:
+** Zandanughan Mind Champion (Illithid), 50g, 2r, Life Drain, Mind Blast, Robes.
+--- Ranged unit and cold resistance
+- Infantry:
+** Hybrid Heavy Infantry (Illithid - hybrid), 11g, 17r, .
+--- Becomes unit of montag 1000 when recruited, Hybrid infantry: heavy, Infantry unit and cold resistance
+** Zandanughan Bog Spearman (Illithid - hybrid), 14g, 9r, Spear, Shell Armor, Sharkskin Cap.
+--- swampunit, Infantry unit and cold resistance
+** Zandanughan Bog Spearman (Illithid - hybrid), 14g, 9r, Coral Spear, Shell Armor, Sharkskin Cap.
+--- swampunit, Infantry unit and cold resistance
+** Zandanughan Heavy Glaive Champion (Illithid - hybrid), 14g, 29r, Coral Glaive, Meteorite Armor.
+--- Infantry unit and cold resistance
+** Zandanughan Spearman (Illithid - hybrid), 14g, 26r, Coral Spear, Meteorite Armor.
+--- Infantry unit and cold resistance
+** Zandanughan Glaive Champion (Illithid - hybrid), 14g, 8r, Meteorite Glaive, Full Leather Armor.
+--- Infantry unit and cold resistance
+** Zandanughan Bakemono Champion (Ogre - o-bakemono), 20g, 7r, Hammer, Furs, Leather Cap, Shield.
+--- patroller 1 and Infantry unit
+** Zandanughan Bakemono Club Champion (Ogre - o-bakemono), 20g, 4r, Club, Sticks and Stones, Furs, Leather Cap, Shield.
+--- patroller 1 and Infantry unit
+- Sacreds:
+** Just Retributor (Illithid - hybrid), 26g, 8r, Stone Spear, Shell Armor, Sharkskin Cap.
+--- Capital only, Sacred, extrastats, Infantry sacred and cold resistance
+
+Commanders:
+- Scouts:
+** Scout (Illithid - hybrid), 35g, 1r, Hypnotize, Tentacle, Robes, Leather Hood.
+--- Scout and cold resistance
+- Commanders:
+** Spearmaster (Illithid - hybrid), 75g, 9r, Spear, Shell Armor, Sharkskin Cap.
+--- swampunit, Infantry unit and cold resistance
+** Warden (Ogre - o-bakemono), 70g, 9r, Hammer, Furs, Reinforced Leather Cap, Shield.
+--- patroller 1 and Infantry unit
+** Sergeant (Illithid - hybrid), 105g, 8r, Stone Spear, Shell Armor, Sharkskin Cap.
+--- Capital only, Sacred, extrastats, Infantry sacred and cold resistance
+- Priests:
+** Novice Parson (Illithid - hybrid), 65g, 1r, Quarterstaff, Leather Cuirass.
+--- 1H. 
+--- Sacred, , elegist 2 and cold resistance
+** Senior Parson (Illithid - hybrid), 130g, 3r, Censer, Robes.
+--- 2H. 
+--- Sacred, , elegist 2, divineins researcher 3 and cold resistance
+- Mages:
+** Follower of the Solemn Congregation (Ogre - o-bakemono), 150g, 15r, Quarterstaff, Samurai Armor.
+--- 1W 1H 1.1? (air, water, astral, nature). 
+--- Sacred, water and 
+** Bishop of the Solemn Congregation (Ogre - o-bakemono), 285g, 21r, Quarterstaff, Heavy Samurai Armor.
+--- 2W 1S 2H 1.1? (air, water, astral, nature). 
+--- Sacred, water, sloth researcher +1 and 
+** Vapormancer of the Solemn Congregation (Ogre - o-bakemono), 265g, 21r, Quarterstaff, Heavy Samurai Armor.
+--- 1A 2W 2H 1.1? (air, water, astral, nature). 
+--- Sacred, water, sloth researcher +1 and 
+** Vessel of the Solemn Congregation (Illithid), 505g, 2r, Life Drain, Robes.
+--- 1A 2W 1S 1N 3H 2.1? (air, water, astral, nature). 
+--- Capital only, Sacred, water, regeneration, lesser_otherness,  and cold resistance
+
+Heroes:
+** Hero (Ogre - o-bakemono), 0g, 27r, Enchanted Yari, Heavy Samurai Armor, Reinforced Leather Cap.
+--- 1.1? (fire, air, death, holy). 
+--- Hero, can shapeshift into a werewolf, regen10 size 3-4 and Infantry elite
+
+Province defence:
+* Commander 1: Spearmaster
+* Commander 2: Novice Parson
+* Troop 1a: Zandanughan Bakemono Champion - 9 per 10 PD
+* Troop 1b: Hybrid Heavy Infantry - 11 per 10 PD
+* Troop 2a: Zandanughan Bog Spearman - 10 per 10 PD
+* Troop 2b: Zandanughan Bog Spearman - 10 per 10 PD
+
+National spells:
+--------------
+Monster Boar
+
+Montag units:
+--------------
+- Troops:
+** Swordsman (Illithid - hybrid), 10g, 14r, Coral Short Sword, Scale Mail Hauberk, Coral Cap, Buckler.
+--- Has montag 1000, Hybrid infantry: heavy, Infantry unit and cold resistance
+** Hybrid Heavy Infantry (Illithid - hybrid), 10g, 13r, Fiery Breath, Chain Mail Cuirass, Coral Cap, Shield.
+--- Has montag 1000, Hybrid infantry: heavy, Infantry unit and cold resistance
+** Heavy Hybrid Heavy Infantry (Illithid - hybrid), 11g, 20r, Pincer, Plate Cuirass, Coral Cap, Hoplon.
+--- Has montag 1000, Hybrid infantry: heavy, Infantry unit and cold resistance
+** Heavy Swordsman (Illithid - hybrid), 11g, 28r, Falchion, Plate Hauberk, Bronze Cap, Shield.
+--- Has montag 1000, Hybrid infantry: heavy, Infantry unit and cold resistance
+** Club Hybrid Heavy Infantry (Illithid - hybrid), 11g, 13r, Coral Club, Chain Mail Cuirass, Coral Cap, Buckler.
+--- Has montag 1000, Hybrid infantry: heavy, Infantry unit and cold resistance
+
+Nation 123: Sardavaz
+-----------------------------------
+Race: Caelians, prefers Cold scale +1.
+Military: Heavy infantry. Champions. Sacred light ranger.
+Magic: Fire and Earth. Weak Death and Blood.
+Priests: Weak, temples cost 600 gold.
+-----------------------------------
+National traits:
+- Ideal cold level 1
+- default
+- Temples cost 600 gold
+
+Caelian themes: diluted, iron, default, slaver
+Ophidian themes: sea_serpent, occidental, default
+
+Magic site features: res30
+
+Troops:
+- Ranged:
+** Sardavazian Spire Horn Champion (Caelian - Spire Horn), 10g, 29r, Morningstar, Long Bow, Plate Hauberk, Half Helmet.
+--- Ranged unit
+- Infantry:
+** Sardavazian Elite Swordsmaster (Caelian), 12g, 38r, Falchion, Full Plate Mail, Full Helmet, Kite Shield.
+--- elite +1 and Infantry unit
+** Sardavazian Halberd Champion (Caelian), 10g, 24r, Halberd, Full Chain Mail, Half Helmet.
+--- Infantry unit
+** Sardavazian Falchioneer (Caelian), 10g, 26r, Falchion, Full Chain Mail, Half Helmet, Shield.
+--- Infantry unit
+** Sardavazian Swordsman (Caelian), 10g, 24r, Short Sword, Full Chain Mail, Half Helmet, Shield.
+--- Infantry unit
+** Sardavazian Halberd Champion (Caelian), 10g, 28r, Bronze Halberd, Plate Hauberk, Half Helmet.
+--- Infantry unit
+** Sardavazian Champion (Caelian), 10g, 24r, Maul, Plate Hauberk, Half Helmet.
+--- Infantry unit
+- Sacreds:
+** Apostle of Summer (Caelian), 15g, 11r, Morningstar, Short Bow, Scale Mail Cuirass, Leather Cap.
+--- Capital only, Sacred, summerpower-low and Ranged sacred
+- Monsters:
+**  (Monster), 100g, 1r, .
+--- Capital only and Special unit
+
+Commanders:
+- Scouts:
+** Scout (Caelian - Wingless), 30g, 3r, Short Trident, Leather Cuirass, Leather Cap.
+--- Scout
+- Commanders:
+** Colonel (Caelian), 60g, 24r, Maul, Plate Hauberk, Half Helmet.
+--- Infantry unit
+** Commanding Champion (Caelian), 40g, 24r, Halberd, Full Chain Mail, Half Helmet.
+--- Infantry unit
+- Priests:
+** High Professor (Caelian), 65g, 4r, Hammer, Robes.
+--- 1H. 
+--- Sacred and 
+- Mages:
+** Spirit Scion (Caelian - Spire Horn), 145g, 5r, Bronze Broad Sword, Robes.
+--- 2E 1D 1B. 
+--- Capital only, earth, resource generator 10 and majorcoldres
+** Initiate Beatified Chaplain (Caelian - Wingless), 65g, 1r, Quarterstaff, Robes.
+--- 1F 1E. 
+--- fire and earth
+**  Beatified Chaplain (Caelian), 125g, 3r, Trident, Robes.
+--- 1F 2E. 
+--- earth and sun awe
+** Adept Beatified Chaplain (Caelian - Spire Horn), 390g, 3r, Trident, Robes.
+--- 2F 3E 1H 1.1? (fire, air, water, earth). 
+--- Sacred, earth, sun awe and 
+
+Heroes:
+** Hero (Caelian), 0g, 1r, Quarterstaff, Robes.
+--- 1A 4E 3N. 
+--- Hero, MAGICPICKS, resource generator 10, blackdog_primary and metalman: size 2
+** Hero (Caelian - Spire Horn), 0g, 28r, Divine Morningstar, Plate Cuirass, Iron Cap, Kite Shield.
+--- Hero, metalman: size 2, regen10 size 3-4, sieger and Infantry elite
+
+Province defence:
+* Commander 1: Colonel
+* Commander 2: High Professor
+* Troop 1a: Sardavazian Spire Horn Champion - 8 per 10 PD
+* Troop 1b: Sardavazian Halberd Champion - 8 per 10 PD
+* Troop 2a: Sardavazian Elite Swordsmaster - 6 per 10 PD
+* Troop 2b: Sardavazian Halberd Champion - 9 per 10 PD
+
+National spells:
+--------------
+Summon Yazatas, Call Amesha Spenta, Call Ahurani, Call Celestial Yazad, Call Fravashi, Contact Scorpion Man, Reawaken Fossil
+
+Montag units:
+--------------
+
+Nation 124: Tlalhuapa
+-----------------------------------
+Race: Atlantians, some Lizards, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Light crocodile cavalry. Sacred Lizard heavy infantry and heavy infantry.
+Magic: Fire. Weak Air, Water, Earth, Astral and Nature.
+Priests: Moderate.
+-----------------------------------
+National traits:
+- Ideal cold level -1
+- Can build forts underwater
+- Fortified cities
+- default
+
+Muuch themes: green, default, slaver
+Lizard themes: predator_sobek, advanced
+
+Magic site features: res75
+
+Troops:
+- Infantry:
+** Tlalhuapan Trapper (Muuch), 10g, 7r, Obsidian Club Sword, Net, Reinforced Leather Armor.
+--- Infantry unit and fire resistance
+** Tlalhuapan Staff Champion (Muuch), 10g, 4r, Quarterstaff, Reinforced Leather Armor.
+--- Infantry unit and fire resistance
+** Tlalhuapan Predator Thane (Lizard - predator), 13g, 12r, Spear, Scale Mail Hauberk, Iron Cap.
+--- slave, elite +1, Infantry unit, fire resistance and Dark vision (50)
+** Tlalhuapan Predator Slave Champion (Lizard - predator), 11g, 8r, Spetum, Scale Mail Cuirass.
+--- slave, patroller 1, Infantry unit, fire resistance and Dark vision (50)
+** Tlalhuapan Predator Slave Trapper (Lizard - predator), 11g, 8r, Spear, Net, Scale Mail Cuirass.
+--- slave, patroller 1, Infantry unit, fire resistance and Dark vision (50)
+** Tlalhuapan Shambler Trident Champion (Muuch - shambler), 20g, 43r, Bronze Trident, Obsidian Armor.
+--- Infantry unit and fire resistance
+** Tlalhuapan Shambler Champion (Muuch - shambler), 20g, 42r, Obsidian Club Sword, Obsidian Armor, Hide Shield.
+--- Infantry unit and fire resistance
+** Tlalhuapan Shambler Axe Champion (Muuch - shambler), 20g, 42r, Bronze Axe, Obsidian Armor, Hide Shield.
+--- Infantry unit and fire resistance
+- Cavalry:
+** Tlalhuapan Light Runner Slave Champion (Lizard - predator), 20g, 1r, Spear, Crocodile mount.
+--- slave, Mounted unit, fire resistance and Dark vision (50)
+--- If the rider dies, the crocodile will carry on fighting until the end of the battle.
+** Tlalhuapan Runner Slave Champion (Lizard - predator), 20g, 7r, Spear, Scale Mail Cuirass, Crocodile mount.
+--- slave, Mounted unit, fire resistance and Dark vision (50)
+--- If the rider dies, the crocodile will carry on fighting until the end of the battle.
+- Sacreds:
+** Temple Thane (Lizard - sobek), 35g, 24r, Iron Kopesh, Scale Mail Hauberk, Iron Cap, Iron Shield.
+--- Capital only, Sacred, slave, Infantry sacred, fire resistance and Dark vision (50)
+** Shadow Paragon (Muuch), 45g, 10r, Stone Spear, Scale Mail Hauberk, Great Hide Shield.
+--- Capital only, Sacred, glamour, Infantry sacred and fire resistance
+
+Commanders:
+- Scouts:
+** Assassin (Muuch), 50g, 15r, Poisoned Obsidian Blade, Poisoned Obsidian Blade, Leather Cuirass.
+--- Assassin and fire resistance
+- Commanders:
+** Spearmaster (Lizard - predator), 85g, 12r, Spear, Scale Mail Hauberk, Iron Cap.
+--- slave, elite +1, Infantry unit, fire resistance and Dark vision (50)
+** Commanding Champion (Lizard - predator), 85g, 1r, Spear, Crocodile mount.
+--- slave, Mounted unit, fire resistance and Dark vision (50)
+--- If the rider dies, the crocodile will carry on fighting until the end of the battle.
+** General (Muuch), 125g, 10r, Stone Spear, Scale Mail Hauberk, Great Hide Shield.
+--- Capital only, Sacred, glamour, Infantry sacred and fire resistance
+- Priests:
+** Exarch (Muuch), 145g, 1r, .
+--- 1H. 
+--- Sacred, , elegist 1, inquisitor, healer 2 and fire resistance
+- Mages:
+** Abyssal Mage (Muuch - shambler), 165g, 1r, Quarterstaff.
+--- 1F 2.1? (fire, water, astral, nature, at least partially linked). 
+--- Capital only, fire, autodishealer2, sailing and fire resistance
+** Apprentice of Perfect Shells (Muuch), 65g, 1r, Quarterstaff.
+--- 1A 1E. 
+--- air and earth and fire resistance
+** Illusionist of Perfect Shells (Muuch - shambler), 260g, 1r, Quarterstaff.
+--- 2A 2E 1H. 
+--- Sacred, air and earth, resource generator 10,  and fire resistance
+** Prior of Perfect Shells (Muuch - shambler), 210g, 1r, Quarterstaff.
+--- 2A 1E 1H. 
+--- Sacred, air, resource generator 10,  and fire resistance
+** Lord of Perfect Shells (Muuch - shambler), 325g, 1r, Quarterstaff.
+--- 1A 1W 1E 2H 2.1? (air, water, earth, blood). 
+--- Capital only, Sacred, air, water, and earth, spellsinger,  and fire resistance
+
+Heroes:
+** Hero (Muuch - shambler), 0g, 1r, Quarterstaff.
+--- 3W 1S 2D 3H. 
+--- Hero, MAGICPICKS, heretic, resource generator 15, inquisitor, ethereal and fire resistance
+** Hero (Muuch - bacab), 0g, 6r, Battleaxe.
+--- 2F 3A 1E 3H. 
+--- Sacred, Hero, MAGICPICKS, earthele, flying, airshield, can shapeshift into a scorpion and fire resistance
+
+Province defence:
+* Commander 1: Spearmaster
+* Commander 2: Exarch
+* Troop 1a: Tlalhuapan Predator Thane - 10 per 10 PD
+* Troop 1b: Tlalhuapan Trapper - 14 per 10 PD
+* Troop 2a: Tlalhuapan Staff Champion - 15 per 10 PD
+* Troop 2b: Tlalhuapan Predator Slave Champion - 13 per 10 PD
+
+National spells:
+--------------
+Summon Tlaloque, Summon Jade Serpent, Summon Jaguars, Summon Monster Toad, Summon Jaguar Toads, Rain of Jaguars, Contact Onaqui, Bind Tzitzimitl,
+Contact Civateteo, Contact Tlahuelpuchi, Bind Jaguar Fiends, Bind Beast Bats
+
+Montag units:
+--------------
+
+Nation 125: Hassor
+-----------------------------------
+Race: Humans, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Auxiliaries. Sacred heavy ranger.
+Magic: Fire and Astral. Laboratories cost 600 gold.
+Priests: Strong.
+-----------------------------------
+National traits:
+- Ideal cold level -2
+- Fortified cities
+- Laboratories cost 600 gold
+
+Dynastic human themes: iron, humans_dustwalkers, imperial
+Imperial human themes: iron, aesthetic_1, missilepreference_rock, default
+
+Troops:
+- Ranged:
+** Hassorine Human Slave Auxiliary (Dynastic human), 7g, 8r, Sling, Short Sword, Scale Mail Cuirass.
+--- Ranged unit
+** Hassorine Human Slave Auxiliary (Dynastic human), 7g, 10r, Sling, Falchion, Scale Mail Cuirass.
+--- Ranged unit
+- Infantry:
+** Velite (Imperial human), 10g, 13r, Throwing Axe, Short Trident, Scale Mail Cuirass, Leather Cap, Iron Shield.
+--- Infantry unit
+** Hassorine Human Swamp Swordsman (Dynastic human), 10g, 8r, Iron Kopesh, Throwing Axe, Linen Cuirass, Tower Shield.
+--- swampunit and Infantry unit
+** Hassorine Human Swamp Swordsman (Dynastic human), 10g, 8r, Short Sword, Throwing Axe, Linen Cuirass, Tower Shield.
+--- swampunit and Infantry unit
+** Hassorine Human Champion (Dynastic human), 10g, 17r, Short Sword, Lorica Segmentata, Reinforced Leather Cap, Tower Shield.
+--- Infantry unit
+- Sacreds:
+** Fire Warden (Dynastic human - dustwalker), 50g, 15r, Iron Kopesh, Poison Bow, Scale Mail Hauberk, Crown.
+--- Capital only, Sacred, incunrest_low, patrol and Ranged sacred
+
+Commanders:
+- Scouts:
+** Assassin (Dynastic human), 50g, 15r, Falchion, Javelin, Falchion, Scale Mail Cuirass.
+--- Assassin
+- Commanders:
+** Consul (Dynastic human), 60g, 8r, Iron Kopesh, Throwing Axe, Linen Cuirass, Tower Shield.
+--- swampunit and Infantry unit
+** Tribune (Dynastic human), 70g, 17r, Short Sword, Lorica Segmentata, Reinforced Leather Cap, Tower Shield.
+--- Infantry unit
+** Praetor (Dynastic human - dustwalker), 145g, 15r, Iron Kopesh, Poison Bow, Scale Mail Hauberk, Crown.
+--- Capital only, Sacred, incunrest_low, patrol and Ranged sacred
+- Priests:
+** Young Chaplain (Dynastic human), 65g, 3r, Hammer, Robes.
+--- 1H. 
+--- Sacred and 
+**  Chaplain (Dynastic human), 115g, 3r, Short Sword, Bane of Heresy, Robes.
+--- 2H. 
+--- Sacred and 
+** Arch Chaplain (Dynastic human - dustwalker), 285g, 2r, Sceptre, Robes.
+--- 3H. 
+--- Capital only, Sacred and 
+- Mages:
+** Follower of the Radiant Bastion (Dynastic human), 65g, 3r, Hammer, Robes.
+--- 1F 1S. 
+--- fire and astral, slimer and fireres
+** Lord of the Radiant Bastion (Dynastic human), 125g, 3r, Hammer, Sacred Pitcher, Robes.
+--- 1F 2S. 
+--- astral
+** Vessel of the Radiant Bastion (Dynastic human - dustwalker), 305g, 3r, Trident, Robes.
+--- 2F 3S 1.1? (fire, water, astral, death). 
+--- Capital only and astral
+
+Heroes:
+** Hero (Dynastic human - dustwalker), 0g, 25r, Exceptional Golden Sword, Scale Mail Hauberk, Iron Cap, Iron Shield.
+--- 1.1? (fire, air, astral, death). 
+--- Sacred, Hero, minorfelemental and Infantry sacred
+** Hero (Dynastic human - dustwalker), 0g, 17r, Exceptional Golden Sword, Scale Mail Cuirass, Crown, Iron Shield.
+--- 1S. 
+--- Sacred, Hero, minorfelemental and Infantry sacred
+** Hero (Dynastic human - dustwalker), 0g, 21r, Exceptional Falchion, Poison Sling, Scale Mail Cuirass, Iron Cap.
+--- 1S 1.1? (water, astral, nature, blood). 
+--- Sacred, Hero, slashres and Ranged sacred
+
+Province defence:
+* Commander 1: Consul
+* Commander 2: Young Chaplain
+* Troop 1a: Velite - 12 per 10 PD
+* Troop 1b: Hassorine Human Swamp Swordsman - 13 per 10 PD
+* Troop 1c: Velite - 12 per 10 PD
+* Troop 1d: Velite - 12 per 10 PD
+* Troop 2a: Hassorine Human Swamp Swordsman - 13 per 10 PD
+* Troop 2b: Hassorine Human Champion - 11 per 10 PD
+
+National spells:
+--------------
+Heavenly Wrath
+
+Montag units:
+--------------
+
+Nation 126: Visyamgar
+-----------------------------------
+Race: Nagas, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry and heavy infantry.
+Magic: Air and Earth. Weak Water, Death and Blood.
+Priests: Weak.
+-----------------------------------
+National traits:
+- Ideal cold level -2
+- Can build forts underwater
+- Fortified cities
+- default
+
+Naga themes: default
+Crustacean themes: default
+
+Troops:
+- Ranged:
+** Visyamgarian Alpine Champion (Naga), 20g, 13r, Club, Composite Bow, Scale Mail Cuirass.
+--- mountainunit and Ranged unit
+- Infantry:
+** Visyamgarian Heavy Spearman (Naga), 20g, 19r, Spear, Scale Mail Hauberk, Iron Shield.
+--- patroller 1 and Infantry unit
+** Visyamgarian Heavy Trident Champion (Naga), 20g, 16r, Trident, Scale Mail Hauberk.
+--- patroller 1 and Infantry unit
+** Visyamgarian Trident Champion (Naga), 20g, 7r, Short Trident, Iron Shield.
+--- Infantry unit
+** Visyamgarian Spearman (Naga), 20g, 7r, Bronze Long Spear, Iron Shield.
+--- Infantry unit
+** Visyamgarian Falchion Champion (Naga), 20g, 10r, Falchion, Iron Shield.
+--- Infantry unit
+** Visyamgarian Flail Champion (Naga), 24g, 13r, Flail, Scale Mail Cuirass.
+--- elite +1 and Infantry unit
+** Visyamgarian Staff Champion (Naga), 20g, 30r, Quarterstaff, Plate Hauberk.
+--- Infantry unit
+** Visyamgarian Clubber (Naga), 20g, 30r, Great Club, Plate Hauberk.
+--- Infantry unit
+** Herald of Earth (Naga), 30g, 12r, Iron Cudgel, Scale Mail Cuirass.
+--- Capital only, can shapeshift into a werecrocodile and Infantry elite
+- Sacreds:
+** Pure Warden (Naga), 30g, 17r, Slaughtering Mace, Scale Mail Cuirass, Buckler.
+--- Capital only, Sacred and Infantry sacred
+** Rock Protector (Naga), 50g, 30r, Iron Cudgel, Bronze Hauberk.
+--- Sacred, berserklow and Infantry sacred
+
+Commanders:
+- Scouts:
+** Assassin (Naga), 60g, 10r, Falchion, Long Bow.
+--- Assassin
+- Commanders:
+** Trident Chieftain (Naga), 50g, 7r, Short Trident, Iron Shield.
+--- Infantry unit
+** Trident Lord (Naga), 70g, 16r, Trident, Scale Mail Hauberk.
+--- patroller 1 and Infantry unit
+** Warlord (Naga), 70g, 17r, Slaughtering Mace, Scale Mail Cuirass, Buckler.
+--- Sacred and Infantry sacred
+- Priests:
+** Adept Monk (Naga), 105g, 6r, Falchion.
+--- 1H. 
+--- Sacred and 
+- Mages:
+** Lord of the Foul Tome (Naga), 170g, 1r, Quarterstaff.
+--- 2W 1D 1B. 
+--- Capital only, water, can shapeshift into a giant spider and resource generator 10
+** Novice of the Uncanny Shrines (Naga), 110g, 3r, Hammer.
+--- 2E. 
+--- earth
+** Scion of the Uncanny Shrines (Naga), 190g, 1r, Quarterstaff.
+--- 1A 2E 1.1? (air, earth, water, blood). 
+--- earth
+** Harbinger of the Uncanny Shrines (Naga), 405g, 1r, Quarterstaff.
+--- 2A 3E 1H 1.1? (air, water, earth, blood). 
+--- Sacred, earth and 
+
+Heroes:
+** Hero (Naga), 0g, 1r, Sceptre.
+--- 1F 4E 2B. 
+--- Hero, MAGICPICKS, resource generator 25, illearth and majorcoldres
+** Hero (Naga), 0g, 1r, Sceptre.
+--- 3F 1A 3E 1N. 
+--- Hero, MAGICPICKS, flying, resource generator 15, majorfireres and can shapeshift into a wolf
+** Hero (Naga), 0g, 1r, Quarterstaff.
+--- 3A 4E 1B. 
+--- Hero, MAGICPICKS, resource generator 10, protected by air and resourcebonus
+
+Province defence:
+* Commander 1: Trident Chieftain
+* Commander 2: Adept Monk
+* Troop 1a: Visyamgarian Clubber - 6 per 10 PD
+* Troop 1b: Visyamgarian Heavy Spearman - 7 per 10 PD
+* Troop 2a: Visyamgarian Heavy Trident Champion - 8 per 10 PD
+* Troop 2b: Visyamgarian Trident Champion - 9 per 10 PD
+
+National spells:
+--------------
+Summon Rakshasas, Feast of Flesh, Summon Asrapas, Summon Rakshasa Warriors, Summon Sandhyabalas, Summon Dakini, Summon Samanishada, Summon Mandeha,
+Summon Danavas, Host of Ganas, Summon Vetalas
+
+Montag units:
+--------------
+
+Nation 127: Tetlan
+-----------------------------------
+Race: Zotzs, prefers Heat scale +1.
+Military: Light infantry. Champions. Light jaguar cavalry. Sacred light infantry and light infantry.
+Magic: Nature. Weak Air, Earth, Astral and Blood.
+Priests: Moderate.
+-----------------------------------
+National traits:
+- Ideal cold level -1
+- default
+
+Zotz themes: default
+Imperial human themes: iron, aesthetic_2, missilepreference_javelin, default
+
+Troops:
+- Ranged:
+** Tetlanese Human Champion (Imperial human), 10g, 6r, Hatchet, Throwing Axe, Throwing Axe, Linen Cuirass, Leather Cap.
+--- Ranged unit
+- Infantry:
+** Tetlanese Club Javelineer (Zotz), 9g, 3r, Great Club, Javelin, Full Leather Armor.
+--- elite +1 and Infantry unit
+** Tetlanese Champion (Zotz), 8g, 3r, Short Bronze Trident, Leather Cuirass, Hide Shield.
+--- Infantry unit
+** Tetlanese Axe Javelineer (Zotz), 8g, 2r, Bronze Hatchet, Javelin, Leather Cuirass, Hide Shield.
+--- Infantry unit
+** Tetlanese Javelineer (Zotz), 8g, 2r, Mace, Javelin, Leather Cuirass, Hide Shield.
+--- Infantry unit
+** Tetlanese Sword Champion (Zotz), 8g, 3r, Obsidian Club Sword, Leather Hauberk.
+--- Infantry unit
+** Tetlanese Light Club Javelineer (Zotz), 8g, 2r, Great Club, Javelin, Leather Hauberk.
+--- Infantry unit
+- Cavalry:
+** Tetlanese Champion (Zotz), 45g, 9r, Great Club, Scale Mail Cuirass, Jaguar mount.
+--- Mounted unit
+--- The jaguar will persist even if the rider dies.
+- Sacreds:
+** Wave Ranger (Zotz), 24g, 2r, Obsidian Club Sword.
+--- Sacred, winterpower-low and Infantry sacred
+** Nightblade of Thunder (Zotz), 19g, 2r, Obsidian Club Sword, Leather Cuirass.
+--- Capital only, Sacred, stormpower and Infantry sacred
+
+Commanders:
+- Scouts:
+** Assassin (Zotz), 50g, 3r, Bronze Axe, Bronze Axe.
+--- Assassin
+- Commanders:
+** Axe High Chieftain (Zotz), 60g, 2r, Bronze Hatchet, Javelin, Leather Cuirass, Hide Shield.
+--- Infantry unit
+** Captain (Zotz), 95g, 9r, Great Club, Scale Mail Cuirass, Jaguar mount.
+--- Mounted unit
+--- The jaguar will persist even if the rider dies.
+** Sword Commander (Zotz), 100g, 2r, Obsidian Club Sword.
+--- Sacred, winterpower-low and Infantry sacred
+- Priests:
+** Minor Parson (Zotz), 75g, 1r, Stone Dagger, Spider Claw.
+--- 1H. 
+--- Sacred,  and condor trainer
+** Elder Parson (Zotz), 140g, 1r, Spider Claw, Stone Dagger.
+--- 2H. 
+--- Sacred,  and condor trainer
+- Mages:
+** Mage of Sylvan Truths (Zotz), 135g, 1r, Spider Claw, Sceptre.
+--- 1S 1B 1.1? (fire, astral, nature, blood). 
+--- Capital only, astral and blood, resource generator 15 and unleashes its true form of a horror on death
+**  Harvest Horticulturist (Zotz), 125g, 1r, Quarterstaff, Spider Claw.
+--- 1E 2N. 
+--- nature and carcasscollector
+**  Harvest Horticulturist (Zotz), 125g, 1r, Stick, Spider Claw.
+--- 1A 2N. 
+--- nature and carcasscollector
+** Chosen Harvest Horticulturist (Zotz), 250g, 1r, Spider Claw, Sceptre.
+--- 1E 3N 1.1? (fire, air, earth, nature). 
+--- Capital only, nature and carcasscollector
+** Chosen Harvest Horticulturist (Zotz), 235g, 1r, Spider Claw.
+--- 1A 3N 1.1? (fire, air, earth, nature). 
+--- Capital only, nature and carcasscollector
+
+Heroes:
+** Hero (Zotz), 0g, 4r, Exceptional Great Club, Leather Hauberk.
+--- Sacred, Hero, deathrec, growthpower and Infantry sacred
+** Hero (Zotz), 0g, 1r, Sceptre.
+--- 3A 1W 2D 4N. 
+--- Hero, MAGICPICKS, swampsurvival, invulnerable20 and flying
+** Hero (Fir Bolg), 0g, 11r, Exceptional Light Lance, Bronze Scale Cuirass, Shield, Horse mount.
+--- Hero, stealthlow, sieger, castlemaster, extrastats and Mounted elite
+
+Province defence:
+* Commander 1: Axe High Chieftain
+* Commander 2: Minor Parson
+* Troop 1a: Tetlanese Human Champion - 15 per 10 PD
+* Troop 1b: Tetlanese Club Javelineer - 16 per 10 PD
+* Troop 2a: Tetlanese Sword Champion - 17 per 10 PD
+* Troop 2b: Tetlanese Champion - 17 per 10 PD
+
+National spells:
+--------------
+
+
+Montag units:
+--------------
+
+Nation 128: Shangririsoi
+-----------------------------------
+Race: Pale Ones.
+Military: Light infantry and heavy infantry. Champions. Heavy drake  and  cave grub cavalry. Sacred heavy infantry.
+Magic: Fire and Earth. Weak Water, Death and Blood.
+Priests: Moderate.
+-----------------------------------
+National traits:
+- Can build forts underwater
+- default
+
+Pale One themes: waning, iron, default
+Oriental human themes: default
+
+Troops:
+- Ranged:
+** Shangririsoian Champion (Pale One), 19g, 21r, Large Rock, Full Scale Mail, Iron Cap.
+--- castledef 2, Ranged unit and Swamp survival
+- Infantry:
+** Shangririsoian Glaive Champion (Pale One), 9g, 9r, Glaive, Iron Cap.
+--- Infantry unit and Swamp survival
+** Shangririsoian Light Trident Champion (Pale One), 9g, 10r, Short Trident, Iron Cap, Iron Shield.
+--- Infantry unit and Swamp survival
+** Shangririsoian Sword Champion (Pale One), 9g, 10r, Short Sword, Iron Cap, Iron Shield.
+--- Infantry unit and Swamp survival
+** Shangririsoian Trident Champion (Pale One), 9g, 21r, Short Bronze Trident, Bronze Scale Hauberk, Bronze Cap, Buckler.
+--- Infantry unit and Swamp survival
+** Shangririsoian Hammer Champion (Pale One), 9g, 21r, Hammer, Bronze Scale Hauberk, Bronze Cap, Buckler.
+--- Infantry unit and Swamp survival
+** Shangririsoian Champion (Pale One), 9g, 18r, Bronze Spear, Bronze Scale Hauberk, Bronze Cap, Buckler.
+--- Infantry unit and Swamp survival
+** Shangririsoian Heavy Trident Champion (Pale One), 9g, 40r, Short Trident, Plate Hauberk, Iron Cap, Iron Shield.
+--- Infantry unit and Swamp survival
+- Cavalry:
+** Shangririsoian Drake Champion (Pale One), 80g, 19r, Short Trident, Scale Mail Cuirass, Half Helmet, Iron Shield, Drake mount.
+--- Mounted unit and Swamp survival
+--- The cave drake will persist even if the rider dies.
+** Divine Protector (Pale One), 35g, 22r, Spear, Scale Mail Cuirass, Iron Cap, Kite Shield, Cave Grub mount.
+--- Capital only, strong, sieger, Mounted elite and Swamp survival
+--- The cave grub will fight until the end of the battle should the rider die
+- Sacreds:
+** Temple Nightblade (Pale One - ancient one), 60g, 48r, Spear, Plate Hauberk, Iron Cap, Buckler.
+--- Capital only, Sacred, resistances_fire, bluntres, reinvig 2, Infantry sacred and Swamp survival
+
+Commanders:
+- Scouts:
+** Spy (Pale One), 50g, 7r, Hammer, Bronze Cap.
+--- Spy and Swamp survival
+- Commanders:
+** General (Pale One), 60g, 21r, Hammer, Bronze Scale Hauberk, Bronze Cap, Buckler.
+--- Infantry unit and Swamp survival
+** Warmaster (Pale One), 130g, 19r, Short Trident, Scale Mail Cuirass, Half Helmet, Iron Shield, Drake mount.
+--- Mounted unit and Swamp survival
+--- The cave drake will persist even if the rider dies.
+- Priests:
+** Deacon (Pale One - cavernwight), 70g, 1r, Quarterstaff.
+--- 1H. 
+--- Sacred,  and Swamp survival
+** Arch Bishop (Pale One - cavernwight), 135g, 1r, Quarterstaff, Robes.
+--- 2H. 
+--- Sacred,  and Swamp survival
+- Mages:
+** Mage of the Upper Communions (Pale One), 115g, 4r, Hammer, Robes.
+--- 1W 1B 1.1? (water, earth, astral, blood). 
+--- Capital only, water and blood, coldres and Swamp survival
+** Fledgling Evoker of the Peaks (Pale One), 140g, 1r, Quarterstaff.
+--- 1F 1E 1.1? (fire, earth, astral, death). 
+--- fire and earth and Swamp survival
+** Adept Evoker of the Peaks (Pale One), 175g, 3r, Quarterstaff, Bronze Cap.
+--- 1F 2E 1.1? (fire, earth, astral, death). 
+--- earth, floating and Swamp survival
+** High Evoker of the Peaks (Pale One - ancient one), 350g, 16r, Quarterstaff, Bronze Scale Hauberk.
+--- 2F 2E 1D 1.1? (fire, earth, astral, death). 
+--- Capital only, Sacred, fire and earth, floating, fear and Swamp survival
+
+Heroes:
+** Hero (Pale One - ancient one), 0g, 1r, Quarterstaff.
+--- 4F 4E. 
+--- Hero, MAGICPICKS, protected by fire, majorpoisonres, resource generator 15, majorfireres, felemental, combatcaster and Swamp survival
+
+Province defence:
+* Commander 1: General
+* Commander 2: Arch Bishop
+* Troop 1a: Divine Protector - 4 per 10 PD
+* Troop 1b: Shangririsoian Champion - 7 per 10 PD
+* Troop 2a: Shangririsoian Glaive Champion - 13 per 10 PD
+* Troop 2b: Shangririsoian Light Trident Champion - 13 per 10 PD
+
+National spells:
+--------------
+Rhuax Pact, Barathrus Pact, Olm Conclave, Living Mercury, Contact Scorpion Man
+
+Montag units:
+--------------
+
+Nation 129: Harsorton
+-----------------------------------
+Race: Humans, some Avvites, prefers Heat scale +3.
+Military: Heavy infantry. Light cavalry  and  heavy moose cavalry. Chariots. Sacred heavy chariot.
+Magic: Fire and Death. Weak Water and Earth. Some Harsortonan Pyromancer mages. Some Apprentice Igniter of the Plague mages. Some Apprentice Igniter of Seas mages.
+Priests: Strong.
+-----------------------------------
+National traits:
+- Ideal cold level -3
+- Prefers extremely warmer climate than usual for the race
+
+Feudal human themes: blacksteel
+Avvite themes: default
+
+Troops:
+- Infantry:
+** Harsortonan Heavy Avvite Swordsman (Avvite), 25g, 34r, Short Sword, Full Chain Mail, Iron Cap, Buckler.
+--- Infantry unit
+** Harsortonan Avvite Champion (Avvite), 25g, 32r, Pike, Full Chain Mail, Iron Cap.
+--- Infantry unit
+** Harsortonan Avvite Swordsman (Avvite), 25g, 28r, Broad Sword, Full Scale Mail, Iron Cap, Buckler.
+--- Infantry unit
+** Harsortonan Heavy Ghoul Swordsman (Feudal human - ghoul), 14g, 36r, Short Sword, Blacksteel Full Plate, Full Helmet, Iron Shield.
+--- Infantry unit
+** Harsortonan Ghoul Swordsman (Feudal human - ghoul), 14g, 14r, Short Sword, Scale Mail Hauberk, Reinforced Leather Cap, Shield.
+--- Infantry unit
+- Cavalry:
+** Harsortonan Knight (Feudal human), 35g, 27r, Falchion, Blacksteel Chain Hauberk, Iron Cap, Iron Shield, Moose mount.
+--- Mounted unit
+--- Leaves a moose behind when the rider dies
+** Harsortonan Lancer (Feudal human), 35g, 29r, Falchion, Lance, Blacksteel Chain Hauberk, Iron Cap, Iron Shield, Moose mount.
+--- Mounted unit
+--- Leaves a moose behind when the rider dies
+** Harsortonan Champion (Feudal human), 30g, 14r, Falchion, Ring Mail Hauberk, Reinforced Leather Cap, Kite Shield, Horse mount.
+--- Mounted unit
+- Chariots:
+** Harsortonan Camel Knight (Feudal human), 60g, 37r, Spetum, Blacksteel Chain Hauberk, Iron Cap, Kite Shield, Camel mount.
+--- elite +1 and Chariot unit
+** Harsortonan Camel Champion (Feudal human), 50g, 41r, Falchion, Plate Hauberk, Iron Cap, Camel mount.
+--- Chariot unit
+- Sacreds:
+** Temple Apostle (Feudal human), 75g, 49r, Sacred Flail, Blacksteel Full Plate, Half Helmet, Horse mount.
+--- Capital only, Sacred, incunrest_low, deathpower and Chariot sacred
+
+Commanders:
+- Scouts:
+** Assassin (Feudal human), 50g, 24r, Katana, Net, Blacksteel Plate Cuirass, Sharkskin Cap.
+--- Assassin
+- Commanders:
+** Master Champion (Avvite), 55g, 28r, Broad Sword, Full Scale Mail, Iron Cap, Buckler.
+--- Infantry unit
+** Captain (Feudal human - ghoul), 75g, 36r, Short Sword, Blacksteel Full Plate, Full Helmet, Iron Shield.
+--- Infantry unit
+** Master Commander (Feudal human), 155g, 37r, Spetum, Blacksteel Chain Hauberk, Iron Cap, Kite Shield, Camel mount.
+--- elite +1 and Chariot unit
+- Priests:
+** Acolyte (Feudal human), 50g, 3r, Hammer, Robes.
+--- 1H. 
+--- Sacred and 
+** Priest (Feudal human), 155g, 4r, Broad Sword, Robes.
+--- 2H. 
+--- Sacred,  and divineins researcher 5
+** High Priest (Feudal human), 195g, 4r, Broad Sword, Robes.
+--- 3H. 
+--- Sacred and 
+- Mages:
+** Harsortonan Pyromancer (Avvite), 55g, 2r, Quarterstaff, Robes.
+--- 1F. 
+--- fire and coldres
+** Apprentice Igniter of the Plague (Avvite), 180g, 2r, Quarterstaff, Robes.
+--- 2F 2E. 
+--- fire and earth and coldres
+** Apprentice Igniter of Seas (Avvite), 180g, 2r, Quarterstaff, Thrown Sutra, Robes.
+--- 2F 2W. 
+--- fire and water and sun awe
+** High Igniter of the Plague (Feudal human), 325g, 3r, Short Sword, Robes, Crown.
+--- 2F 1E 2D 1.1? (fire, water, earth, death). 
+--- Capital only, Sacred and fire and death
+** High Igniter of Seas (Feudal human), 325g, 3r, Short Sword, Robes.
+--- 2F 1W 2D 1.1? (fire, water, earth, death). 
+--- Capital only, Sacred and fire and death
+
+Heroes:
+** Hero (Feudal human), 0g, 1r, Quarterstaff, Robes.
+--- 3F 2D 1B. 
+--- Hero, MAGICPICKS, illearth and deathrec
+** Hero (Avvite - nephil), 0g, 1r, Flaming Fist.
+--- 3F 1A 2D. 
+--- Sacred, Hero, MAGICPICKS, deathrec, imp_primary, corpselord 2, slimer, wastesurvival and majorshockres
+** Hero (Feudal human), 0g, 5r, Falchion, Robes.
+--- 3F 3D 3N 1B. 
+--- Hero, MAGICPICKS, deathrec, invulnerable5, ghoul: size 1 and majorfireres
+
+Province defence:
+* Commander 1: Acolyte
+* Commander 2: Acolyte
+* Troop 1a: Harsortonan Avvite Swordsman - 5 per 10 PD
+* Troop 1b: Harsortonan Heavy Avvite Swordsman - 5 per 10 PD
+* Troop 2a: Harsortonan Avvite Champion - 5 per 10 PD
+* Troop 2b: Harsortonan Heavy Ghoul Swordsman - 6 per 10 PD
+
+National spells:
+--------------
+Summon Black Dogs, Summon Barghests
+
+Montag units:
+--------------
+
+Nation 130: Borgheim
+-----------------------------------
+Race: Vaettis, some Humans, prefers Cold scale +2.
+Military: Light infantry and heavy infantry. Champions. Sacred light ranger.
+Magic: Death. Weak Blood.
+Priests: Weak, can reanimate the dead.
+-----------------------------------
+National traits:
+- Ideal cold level 2
+- Priests can reanimate ghouls, soulless and longdead infantry.
+
+Vaetti themes: vaetti_only, settled, advanced
+Dynastic human themes: iron, humans_dustwalkers, default
+
+Troops:
+- Ranged:
+** Borgheimic Human Champion (Dynastic human), 10g, 13r, Falchion, Sling, Scale Mail Hauberk.
+--- Ranged unit
+- Infantry:
+** Borgheimic Sword Hirdman (Vaetti), 7g, 10r, Broad Sword, Chain Mail Hauberk, Iron Cap.
+--- Infantry unit and cold resistance
+** Borgheimic Hammer Hirdman (Vaetti), 7g, 8r, Hammer, Scale Mail Hauberk, Iron Cap, Shield.
+--- Infantry unit and cold resistance
+** Borgheimic Polearm Hirdman (Vaetti), 7g, 8r, Bardiche, Scale Mail Hauberk, Iron Cap.
+--- Infantry unit and cold resistance
+** Borgheimic Flail Hirdman (Vaetti), 7g, 8r, Flail, Scale Mail Hauberk, Iron Cap.
+--- Infantry unit and cold resistance
+** Borgheimic Heavy Polearm Hirdman (Vaetti), 7g, 10r, Bardiche, Full Scale Mail, Iron Cap.
+--- Infantry unit and cold resistance
+** Borgheimic Heavy Morningstar Hirdman (Vaetti), 7g, 10r, Morningstar, Full Scale Mail, Iron Cap, Shield.
+--- Infantry unit and cold resistance
+** Borgheimic Heavy Flail Hirdman (Vaetti), 7g, 12r, Flail, Full Chain Mail, Iron Cap.
+--- Infantry unit and cold resistance
+** Borgheimic Human Sword Champion (Dynastic human), 10g, 14r, Falchion, Scale Mail Hauberk, Buckler.
+--- Infantry unit
+** Night Hunter (Vaetti), 17g, 5r, Morningstar, Hammer, Ring Mail Hauberk, Leather Cap.
+--- Infantry elite and cold resistance
+- Sacreds:
+** Pious Hunter (Vaetti), 40g, 9r, Exceptional Dagger, Small Crossbow, Scale Mail Cuirass, Leather Cap.
+--- Capital only, Sacred, awe, Ranged sacred and cold resistance
+- Monsters:
+**  (Monster), 100g, 1r, .
+--- Capital only and Special unit
+
+Commanders:
+- Scouts:
+** Assassin (Vaetti), 45g, 4r, Short Sword, Small Arbalest, Leather Hauberk, Leather Cap.
+--- Assassin and cold resistance
+- Commanders:
+** Lieutenant (Vaetti), 65g, 5r, Morningstar, Hammer, Ring Mail Hauberk, Leather Cap.
+--- Infantry elite and cold resistance
+** Master Champion (Dynastic human), 60g, 14r, Falchion, Scale Mail Hauberk, Buckler.
+--- Infantry unit
+** Sergeant (Vaetti), 130g, 9r, Exceptional Dagger, Small Crossbow, Scale Mail Cuirass, Leather Cap.
+--- Sacred, awe, Ranged sacred and cold resistance
+- Priests:
+** Arch Nun (Vaetti), 165g, 1r, Club, Robes.
+--- 1H. 
+--- Sacred,  and cold resistance
+- Mages:
+** Harvest Initiate (Vaetti), 90g, 2r, Hammer, Robes.
+--- 1D 1.1? (astral, death, nature, blood). 
+--- death, invulnerable5 and cold resistance
+** Harvest Follower (Vaetti), 170g, 2r, Hammer, Robes.
+--- 2D 1B 1.1? (astral, death, nature, blood). 
+--- death, invulnerable5 and cold resistance
+** Harvest Elder (Vaetti), 440g, 2r, Hammer, Robes.
+--- 3D 1B 1H 1.1? (astral, death, nature, blood). 
+--- Capital only, Sacred, death, invulnerable5,  and cold resistance
+
+Heroes:
+** Hero (Vaetti), 0g, 15r, Enchanted Short Sword, Exceptional Composite Bow, Chain Mail Cuirass, Leather Cap.
+--- Hero, can shapeshift into a werehyena, regen10 size 1-2, castlemaster, pillage, Ranged elite and cold resistance
+
+Province defence:
+* Commander 1: Lieutenant
+* Commander 2: Arch Monk
+* Troop 1a: Borgheimic Human Sword Champion - 12 per 10 PD
+* Troop 1b: Borgheimic Human Champion - 12 per 10 PD
+* Troop 2a: Borgheimic Sword Champion - 14 per 10 PD
+* Troop 2b: Borgheimic Hammer Champion - 16 per 10 PD
+
+National spells:
+--------------
+Awaken Jotun Draugar, Brood of Garm, Seith Curse, Illwinter, Summon Rimvaettir, Winter's Call, Summon Dwarf of the Four Directions
+
+Montag units:
+--------------
+
+Nation 131: Tanedyer
+-----------------------------------
+Race: Abysians, some Ogres.
+Military: Heavy infantry. Champions. Heavy cavalry. Sacred Ogre heavy infantry.
+Magic:  Weak Fire, Water and Blood.
+Priests: Strong.
+-----------------------------------
+National traits:
+- Ideal cold level 0
+- Fortified villages
+- default
+- Prefers one considerably colder climate than usual for the race
+
+Abysian themes: diluted, default
+Ogre themes: ogre, default
+
+Troops:
+- Ranged:
+** Tanedyerese Champion (Abysian - humanbred), 12g, 41r, Steel Crossbow, Falchion, Full Plate Mail, Half Helmet, Tower Shield.
+--- patroller 1 and Ranged unit
+- Infantry:
+** Tanedyerese Elite Swordsmaster (Abysian - humanbred), 14g, 19r, Falchion, Scale Mail Hauberk, Iron Cap, Iron Shield.
+--- elite +1 and Infantry unit
+** Tanedyerese Axe Champion (Abysian - humanbred), 12g, 27r, Axe, Plate Hauberk, Iron Cap, Iron Shield.
+--- Infantry unit
+** Tanedyerese Swordsman (Abysian - humanbred), 12g, 28r, Short Sword, Plate Hauberk, Iron Cap, Iron Shield.
+--- Infantry unit
+** Tanedyerese Swordsman (Abysian - humanbred), 12g, 30r, Falchion, Plate Hauberk, Iron Cap, Iron Shield.
+--- Infantry unit
+** Tanedyerese Ogre Champion (Ogre), 20g, 30r, Mace, Plate Cuirass, Half Helmet, Buckler.
+--- Infantry unit
+** Tanedyerese Ogre Club Champion (Ogre), 20g, 30r, Iron Cudgel, Plate Cuirass, Half Helmet.
+--- Infantry unit
+** Tanedyerese Ogre Swordsman (Ogre), 20g, 34r, Falchion, Plate Cuirass, Half Helmet, Buckler.
+--- Infantry unit
+- Cavalry:
+** Tanedyerese Lancer (Abysian - humanbred), 35g, 30r, Hammer, Lance, Plate Cuirass, Reinforced Leather Cap, Kite Shield, Horse mount.
+--- Mounted unit
+- Sacreds:
+** Hellbent Ravager (Ogre), 35g, 12r, Claymore, Furs, Bronze Half Helmet.
+--- Capital only, Sacred, slashres and Infantry sacred
+
+Commanders:
+- Scouts:
+** Assassin (Abysian), 60g, 18r, Falchion, Throwing Axe, Falchion, Scale Mail Cuirass, Iron Cap.
+--- Assassin
+- Commanders:
+** Mace Chieftain (Ogre), 70g, 30r, Mace, Plate Cuirass, Half Helmet, Buckler.
+--- Infantry unit
+** Warmaster (Abysian - humanbred), 95g, 30r, Hammer, Lance, Plate Cuirass, Reinforced Leather Cap, Kite Shield, Horse mount.
+--- Mounted unit
+** Swordsmaster (Ogre), 155g, 12r, Claymore, Furs, Bronze Half Helmet.
+--- Sacred, slashres and Infantry sacred
+- Priests:
+** Junior Pilgrim (Abysian - humanbred), 55g, 2r, Twig, Robes.
+--- 1H. 
+--- Sacred and 
+**  Pilgrim (Abysian - humanbred), 120g, 2r, Branch, Robes.
+--- 2H. 
+--- Sacred and 
+** Adept Pilgrim (Abysian), 210g, 1r, Quarterstaff, Robes.
+--- 3H. 
+--- Capital only, Sacred,  and inquisitor
+- Mages:
+** Follower of the Hateful Academy (Abysian - humanbred), 65g, 2r, Pestle, Robes.
+--- 1W 1B. 
+--- water and blood
+** Scion of the Hateful Academy (Abysian - humanbred), 125g, 5r, Hammer, Halt Demon, Robes.
+--- 1W 2B. 
+--- blood
+** Vessel of the Hateful Academy (Abysian), 375g, 4r, Bronze Sword, Robes.
+--- 1F 1W 1B 2.1? (fire, water, astral, blood). 
+--- Capital only, Sacred, fire, water, and blood, can shapeshift into a frost fiend and majorcoldres
+
+Heroes:
+** Hero (Ogre), 0g, 10r, Machaka Spear, Sticks and Stones, Half Helmet, Buckler.
+--- 2F 1W 1.1? (fire, water, death, blood). 
+--- Hero, can shapeshift into a werehyena, stealthlow, patrol, bodyguardlow and Infantry elite
+
+Province defence:
+* Commander 1: Mace Chieftain
+* Commander 2: Warmaster
+* Troop 1a: Tanedyerese Elite Swordsmaster - 9 per 10 PD
+* Troop 1b: Tanedyerese Axe Champion - 8 per 10 PD
+* Troop 2a: Tanedyerese Swordsman - 8 per 10 PD
+* Troop 2b: Tanedyerese Swordsman - 7 per 10 PD
+
+National spells:
+--------------
+Inner Furnace, Summon Spectral Infantry
+
+Montag units:
+--------------
+
+Nation 132: Abbka
+-----------------------------------
+Race: Humans, some Atlantians, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Champions. Light horse  and  spider cavalry. Sacred light ranger.
+Magic: Air. Weak Water, Astral and Death. Some High Omnipotent Necromancer mages.
+Priests: Moderate.
+-----------------------------------
+National traits:
+- Ideal cold level -1
+- Fortified villages
+- default
+
+Austral human themes: machakan, advanced
+Atlantian themes: bronze
+
+Magic site features: allrange 2
+
+Troops:
+- Ranged:
+** Abbkan Champion (Austral human), 10g, 8r, Falchion, Composite Bow, Leather Cuirass, Leather Cap.
+--- Ranged unit
+- Infantry:
+** Abbkan Elite Spearmaster (Austral human), 12g, 20r, Machaka Spear, Plate Cuirass, Iron Cap, Hide Shield.
+--- elite +1 and Infantry unit
+** Abbkan Maul Ranger (Austral human), 10g, 4r, Maul, Crossbow.
+--- Infantry unit
+** Abbkan Ranger (Austral human), 10g, 4r, Spear, Crossbow, Hide Shield.
+--- Infantry unit
+** Abbkan Atlantian Standard Bearer (Atlantian), 27g, 3r, Net, Coral Cap.
+--- skirmisher stealthy and Infantry unit
+- Cavalry:
+** Abbkan Lancer (Austral human), 25g, 3r, Maul, Lance, Horse mount.
+--- Mounted unit
+** Abbkan Champion (Austral human), 25g, 4r, Spear, Crossbow, Hide Shield, Horse mount.
+--- Mounted unit
+** Abbkan Spider Champion (Austral human), 40g, 11r, Spear, Crossbow, Scale Mail Cuirass, Leather Cap, Buckler, Spider mount.
+--- Mounted unit
+--- The giant spider will persist even if the rider dies.
+- Sacreds:
+** Thunder Marksman (Austral human), 29g, 8r, Falchion, Short Bow, Leather Hauberk, Leather Cap.
+--- Capital only, Sacred, minoraelemental and Ranged sacred
+
+Commanders:
+- Scouts:
+** Assassin (Austral human), 50g, 6r, Great Sword, Leather Cuirass, Leather Hood.
+--- Assassin
+- Commanders:
+** Warlord (Austral human), 60g, 4r, Maul, Crossbow.
+--- Infantry unit
+** Sergeant (Austral human), 55g, 3r, Maul, Lance, Horse mount.
+--- Mounted unit
+- Special commanders:
+** Master Mason (Austral human), 60g, 5r, Sacred Pitcher, Falchion, Robes.
+--- Capital only and is skilled in advanced construction techniques, as well as siege warfare.
+- Priests:
+** Acolyte (Austral human), 50g, 4r, Bronze Sword, Robes.
+--- 1H. 
+--- Sacred,  and inquisitor
+** High Priest (Austral human), 115g, 5r, Bronze Broad Sword, Robes.
+--- 2H. 
+--- Sacred,  and inquisitor
+- Mages:
+** Novice Omnipotent Necromancer (Austral human), 110g, 1r, Stone Dagger, Sacred Pitcher, Robes.
+--- 1A 1W 1D. 
+--- Sacred and air, water, and death
+** Omnipotent Navigator (Austral human), 225g, 1r, Quarterstaff, Sacred Pitcher, Robes.
+--- 2A 1W 1.1? (air, water, astral, death). 
+--- Sacred, air, spellsinger, coldres and airshield
+** Omnipotent Ceraunomancer (Austral human), 225g, 1r, Quarterstaff, Sacred Pitcher, Robes.
+--- 2A 1D 1.1? (air, water, astral, death). 
+--- Sacred, air, ancestorspirits, coldres and airshield
+** High Omnipotent Necromancer (Atlantian - shambler), 355g, 4r, Sceptre, Coral Cap.
+--- 2A 1W 1S 1D 1.1? (air, water, astral, death). 
+--- Capital only, Sacred, air and ancestorspirits
+
+Heroes:
+** Hero (Austral human), 0g, 5r, Short Sword, Imperial Robes.
+--- 4A 1S 3D 1N. 
+--- Hero, MAGICPICKS, lowupkeep, flying and ethereal2
+** Hero (Austral human), 0g, 3r, Trident, Robes.
+--- 3A 3W 1D 2N. 
+--- Hero, MAGICPICKS, flying, protected by air, airshield, dragonlord 2 and recuperation
+** Hero (Illithid), 0g, 2r, Life Drain, Robes.
+--- 1F 3A 1W 4D. 
+--- Hero, MAGICPICKS, deathrec, makepearls, majorpoisonres and airshield
+
+Province defence:
+* Commander 1: Warlord
+* Commander 2: High Priest
+* Troop 1a: Abbkan Champion - 8 per 10 PD
+* Troop 1b: Abbkan Champion - 13 per 10 PD
+* Troop 2a: Abbkan Elite Spearmaster - 9 per 10 PD
+* Troop 2b: Abbkan Maul Ranger - 15 per 10 PD
+
+National spells:
+--------------
+Heavenly Wrath
+
+Montag units:
+--------------
+
+Nation 133: Caoligh
+-----------------------------------
+Race: Fomorians, some Fir Bolgs, prefers Cold scale +1.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Water and Death. Weak Blood.
+Priests: Strong, can perform blood sacrifices.
+-----------------------------------
+National traits:
+- Ideal cold level 1
+- Giant forts
+- Prefers slightly colder climate than usual for the race
+- Priests may perform blood sacrifices
+
+Fomorian themes: cursed, iron, default
+Fir Bolg themes: iron, default
+
+Troops:
+- Ranged:
+** Caolighish Fir Bolg Champion (Fir Bolg), 13g, 5r, Hatchet, Javelin, Full Leather Armor, Leather Cap.
+--- Ranged unit
+- Infantry:
+** Caolighish Fir Bolg Axeman (Fir Bolg), 13g, 7r, Axe, Ring Mail Cuirass, Iron Shield.
+--- Infantry unit
+** Caolighish Fir Bolg Sword Champion (Fir Bolg), 13g, 9r, Broad Sword, Ring Mail Cuirass, Iron Shield.
+--- Infantry unit
+** Caolighish Marsh Axeman (Fomorian), 30g, 16r, Axe, Harpoon, Full Leather Armor, Leather Cap, Iron Shield.
+--- swampunit and Infantry unit
+** Caolighish Marsh Champion (Fomorian), 30g, 18r, Broad Sword, Full Leather Armor, Leather Cap, Iron Shield.
+--- swampunit and Infantry unit
+** Caolighish Sword Champion (Fomorian), 30g, 24r, Broad Sword, Scale Mail Cuirass, Leather Cap, Iron Shield.
+--- Infantry unit
+** Caolighish Axeman (Fomorian), 30g, 20r, Axe, Scale Mail Cuirass, Leather Cap, Iron Shield.
+--- Infantry unit
+** Caolighish Heavy Axeman (Fomorian), 30g, 32r, Axe, Scale Mail Hauberk, Iron Cap, Kite Shield.
+--- Infantry unit
+** Blue Sentinel (Fomorian - giant), 90g, 57r, Trident, Full Chain Mail.
+--- Capital only, castlemaster, patrol and Infantry elite
+- Sacreds:
+** Templar of Ice (Fomorian), 40g, 22r, Spear, Full Ring Mail, Leather Cap, Iron Shield.
+--- Capital only, Sacred, sieger and Infantry sacred
+
+Commanders:
+- Scouts:
+** Spy (Fomorian), 70g, 10r, Long Spear, Ring Mail Cuirass, Leather Cap.
+--- Spy
+- Commanders:
+** Commanding Champion (Fomorian), 60g, 16r, Axe, Harpoon, Full Leather Armor, Leather Cap, Iron Shield.
+--- swampunit and Infantry unit
+** Lieutenant (Fomorian), 80g, 20r, Axe, Scale Mail Cuirass, Leather Cap, Iron Shield.
+--- Infantry unit
+** Warden (Fomorian - giant), 140g, 57r, Trident, Full Chain Mail.
+--- Capital only, castlemaster, patrol and Infantry elite
+** Spear Chieftain (Fomorian), 145g, 22r, Spear, Full Ring Mail, Leather Cap, Iron Shield.
+--- Sacred, sieger and Infantry sacred
+- Priests:
+** High Priest (Fomorian), 80g, 4r, Spear, Robes.
+--- 1H. 
+--- Sacred and 
+- Mages:
+** Apprentice of Deep Oaths (Fomorian), 115g, 2r, Quarterstaff, Robes.
+--- 1W 1D 1H. 
+--- Sacred, water and death and 
+** Scion of Deep Oaths (Fomorian), 255g, 2r, Quarterstaff, Robes.
+--- 2D 2H 1.1? (air, water, death, blood). 
+--- Sacred, death and 
+** Harbinger of Deep Oaths (Fomorian), 405g, 6r, Sickle Staff, Robes.
+--- 2W 2D 1B 3H 1.1? (air, water, death, blood). 
+--- Capital only, Sacred, water and death, resource generator 25, majorcoldres and 
+
+Heroes:
+** Hero (Fir Bolg), 0g, 23r, Golden Lance, Bronze Scale Hauberk, Iron Cap, Iron Shield, Horse mount.
+--- 1A 3B 3H. 
+--- Hero, MAGICPICKS, resource generator 10, fear, flying, autohealer 3, invulnerable5 and can shapeshift into a cave crab
+
+Province defence:
+* Commander 1: Commanding Champion
+* Commander 2: High Priest
+* Troop 1a: Caolighish Heavy Axeman - 4 per 10 PD
+* Troop 1b: Caolighish Fir Bolg Axeman - 12 per 10 PD
+* Troop 2a: Caolighish Fir Bolg Sword Champion - 11 per 10 PD
+* Troop 2b: Caolighish Marsh Axeman - 5 per 10 PD
+
+National spells:
+--------------
+Summon Valkyries, Brood of Garm, Summon Glosos, Seith Curse, Summon Dwarf of the Four Directions
+
+Montag units:
+--------------
+
+Nation 134: Acaikos
+-----------------------------------
+Race: Ophidians, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Sacred heavy infantry and light infantry.
+Magic: Earth. Weak Water, Astral, Death, Nature and Blood.
+Priests: Moderate, temples cost 800 gold.
+-----------------------------------
+National traits:
+- Ideal cold level -1
+- Fortified cities
+- default
+- Temples generate earth gems
+
+Ophidian themes: deep_serpent, occidental, bronze
+Zotz themes: advanced
+
+Troops:
+- Infantry:
+** Acaikosese Master Impaler (Ophidian), 14g, 3r, Stone Spear, Harpoon, Bronze Cap.
+--- elite +1, Infantry unit and cold resistance
+** Acaikosese Highland Impaler (Ophidian), 12g, 8r, Bronze Spear, Harpoon, Bronze Scale Cuirass, Reinforced Leather Cap.
+--- mountainunit, Infantry unit and cold resistance
+** Acaikosese Highland Swordsman (Ophidian), 12g, 9r, Kopesh, Harpoon, Bronze Scale Cuirass, Reinforced Leather Cap.
+--- mountainunit, Infantry unit and cold resistance
+** Acaikosese Heavy Swordsman (Ophidian), 12g, 17r, Bronze Sword, Scale Mail Hauberk, Bronze Cap, Hoplon.
+--- Infantry unit and cold resistance
+** Acaikosese Impaler (Ophidian), 12g, 15r, Bronze Spear, Scale Mail Hauberk, Bronze Cap, Hoplon.
+--- Infantry unit and cold resistance
+** Acaikosese Heavy Swordsman (Ophidian), 12g, 16r, Kopesh, Scale Mail Hauberk, Bronze Cap, Hoplon.
+--- Infantry unit and cold resistance
+** Acaikosese Swordsman (Ophidian), 12g, 10r, Obsidian Club Sword, Bronze Scale Hauberk, Leather Cap.
+--- Infantry unit and cold resistance
+- Sacreds:
+** Unseen Protector (Ophidian), 28g, 11r, Obsidian Club Sword, Bronze Scale Cuirass, Reinforced Leather Cap, Hoplon.
+--- Sacred, berserklowest, patrol, Infantry sacred and cold resistance
+** Shadow Guard (Ophidian), 29g, 7r, Bronze Spear, Net, Sharkskin Cuirass, Leather Cap, Hoplon.
+--- Capital only, Sacred, patrol, Infantry sacred and cold resistance
+
+Commanders:
+- Scouts:
+** Scout (Ophidian), 30g, 3r, Bronze Sword.
+--- Scout and cold resistance
+- Commanders:
+** Spearmaster (Ophidian), 60g, 8r, Bronze Spear, Harpoon, Bronze Scale Cuirass, Reinforced Leather Cap.
+--- mountainunit, Infantry unit and cold resistance
+** Swordsmaster (Ophidian), 70g, 17r, Bronze Sword, Scale Mail Hauberk, Bronze Cap, Hoplon.
+--- Infantry unit and cold resistance
+** Sword Champion (Ophidian), 95g, 11r, Obsidian Club Sword, Bronze Scale Cuirass, Reinforced Leather Cap, Hoplon.
+--- Sacred, berserklowest, patrol, Infantry sacred and cold resistance
+- Priests:
+** Young Exarch (Ophidian), 55g, 1r, Quarterstaff.
+--- 1H. 
+--- Sacred,  and cold resistance
+** Grand Exarch (Ophidian), 120g, 5r, Coral Staff.
+--- 2H. 
+--- Sacred,  and cold resistance
+- Mages:
+** Stygian Scion (Ophidian), 145g, 1r, Sceptre.
+--- 1W 1S 1B. 
+--- water, astral, and blood, can shapeshift into a frost fiend and cold resistance
+** Darkness Neophyte (Ophidian), 160g, 1r, Quarterstaff.
+--- 1E 2.1? (water, earth, death, nature). 
+--- earth and cold resistance
+** Darkness Ascendant (Ophidian), 215g, 5r, Coral Staff.
+--- 2E 1H 1.1? (water, earth, death, nature). 
+--- Sacred, earth,  and cold resistance
+** Darkness Harbinger (Ophidian), 340g, 1r, Quarterstaff.
+--- 3E 2H 2.1? (water, death, nature, earth, at least partially linked). 
+--- Capital only, Sacred, earth, awe,  and cold resistance
+
+Heroes:
+** Hero (Ophidian), 0g, 7r, Exceptional Bronze Sword, Bronze Cap.
+--- Hero, can shapeshift into a werecrocodile, can enter berserker rage, bodyguardlow, Infantry elite and cold resistance
+** Hero (Ophidian), 0g, 5r, Coral Staff.
+--- 4E 4B. 
+--- Hero, MAGICPICKS, can shapeshift into a scorpion, earthele and cold resistance
+
+Province defence:
+* Commander 1: Spearmaster
+* Commander 2: Young Exarch
+* Troop 1a: Acaikosese Impaler - 11 per 10 PD
+* Troop 1b: Acaikosese Master Impaler - 12 per 10 PD
+* Troop 2a: Acaikosese Highland Impaler - 12 per 10 PD
+* Troop 2b: Acaikosese Highland Swordsman - 11 per 10 PD
+
+National spells:
+--------------
+
+
+Montag units:
+--------------
+
