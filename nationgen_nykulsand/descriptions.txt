@@ -1,0 +1,7 @@
+Nation 120: Nykulsand
+-----------------------------------
+Race: Humans, prefers Cold scale +2.
+Military: Light infantry and heavy infantry. Champions. Light unicorn cavalry  and  heavy unicorn cavalry. Sacred light infantry.
+Magic: Fire and Air. Weak Water, Astral and Death.
+Priests: Strong.
+

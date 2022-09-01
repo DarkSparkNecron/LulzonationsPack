@@ -1,0 +1,93 @@
+Nation 120: Nykulsand
+-----------------------------------
+Race: Humans, prefers Cold scale +2.
+Military: Light infantry and heavy infantry. Champions. Light unicorn cavalry  and  heavy unicorn cavalry. Sacred light infantry.
+Magic: Fire and Air. Weak Water, Astral and Death.
+Priests: Strong.
+-----------------------------------
+National traits:
+- Ideal cold level 2
+- default
+- Prefers slightly colder climate than usual for the race
+
+Boreal human themes: mixed, primitive
+Jotun themes: traditional, default
+
+Troops:
+- Ranged:
+** Nykulsandan Serf Champion (Boreal human), 8g, 4r, Spiked Club, Short Bow, Leather Cuirass.
+--- serf and Ranged unit
+- Infantry:
+** Nykulsandan Swordsman (Boreal human), 10g, 7r, Broad Sword, Leather Hauberk, Leather Cap, Shield.
+--- Infantry unit
+** Nykulsandan Champion (Boreal human), 10g, 5r, Battleaxe, Leather Hauberk, Leather Cap.
+--- Infantry unit
+** Nykulsandan Light Basher (Boreal human), 10g, 5r, Mace, Leather Hauberk, Leather Cap, Shield.
+--- Infantry unit
+** Nykulsandan Basher (Boreal human), 10g, 12r, Mace, Scale Mail Hauberk, Leather Cap, Shield.
+--- Infantry unit
+** Nykulsandan Serf Basher (Boreal human), 8g, 6r, Mace, Ring Mail Cuirass, Leather Cap, Shield.
+--- serf and Infantry unit
+- Cavalry:
+** Nykulsandan Knight (Boreal human), 55g, 14r, Mace, Scale Mail Hauberk, Iron Cap, Shield, Unicorn mount.
+--- elite +1 and Mounted unit
+** Nykulsandan Champion (Boreal human), 45g, 12r, Battleaxe, Chain Mail Cuirass, Leather Cap, Unicorn mount.
+--- Mounted unit
+- Sacreds:
+** Steam Guard (Boreal human), 14g, 3r, Spear, Net, Leather Cuirass, Leather Cap.
+--- Capital only, Sacred, airshield20 and Infantry sacred
+
+Commanders:
+- Scouts:
+** Scout (Boreal human), 30g, 7r, Hatchet, Composite Bow, Ring Mail Cuirass, Leather Cap.
+--- Scout
+- Commanders:
+** Swordsmaster (Boreal human), 60g, 7r, Broad Sword, Leather Hauberk, Leather Cap, Shield.
+--- Infantry unit
+** Castellan (Boreal human), 115g, 14r, Mace, Scale Mail Hauberk, Iron Cap, Shield, Unicorn mount.
+--- elite +1 and Mounted unit
+- Priests:
+** Acolyte (Boreal human), 50g, 1r, Quarterstaff, Furs.
+--- 1H. 
+--- Sacred and 
+** High Priestess (Boreal human), 145g, 3r, Sceptre, Leather Hauberk.
+--- 2H. 
+--- Sacred and 
+- Mages:
+** Follower of the Foreboding Shadow (Boreal human), 170g, 13r, Short Sword, Chain Mail Cuirass, Crown, Shield, Bear mount.
+--- 1S 1D 1.1? (astral, death, air, earth). 
+--- Capital only, astral and death and awe
+--- If the rider dies, the bear will carry on fighting until the end of the battle.
+** Neophyte of the Greater Cult (Boreal human), 200g, 4r, Short Sword, Mace, Robes.
+--- 2A 1.1? (fire, air, water, death). 
+--- Sacred and air
+** Mage of the Greater Cult (Boreal human), 275g, 14r, Broad Sword, Kite Shield, Leather Hauberk, Horse mount.
+--- 1F 2A 1.1? (fire, air, water, death). 
+--- Sacred, air and majorshockres
+** Binder of the Greater Cult (Boreal human), 500g, 23r, Light Lance, Chain Mail Hauberk, Leather Cap, Kite Shield, Horse mount.
+--- 2F 2A 3H 2.1? (fire, air, water, death, at least partially linked). 
+--- Sacred, fire and air, felemental and 
+
+Heroes:
+** Hero (Boreal human), 0g, 14r, Enchanted Falchion, Leather Hauberk, Iron Cap, Shield, Horse mount.
+--- 1E 2H 1.1? (earth, nature, blood, holy). 
+--- Sacred, Hero, glamour, resistances_fire and Mounted sacred
+** Hero (Boreal human), 0g, 21r, Exceptional Axe, Scale Mail Hauberk, Iron Cap, Shield, Horse mount.
+--- 1B 1H 1.1? (blood, holy, death, nature). 
+--- Hero, stealthlow, zealous, extrastats and Mounted elite
+
+Province defence:
+* Commander 1: Swordsmaster
+* Commander 2: High Priest
+* Troop 1a: Nykulsandan Basher - 12 per 10 PD
+* Troop 1b: Nykulsandan Swordsman - 14 per 10 PD
+* Troop 2a: Nykulsandan Champion - 15 per 10 PD
+* Troop 2b: Nykulsandan Light Basher - 15 per 10 PD
+
+National spells:
+--------------
+
+
+Montag units:
+--------------
+
