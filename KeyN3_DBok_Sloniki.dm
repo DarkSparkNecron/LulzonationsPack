@@ -868,12 +868,15 @@
 #appetite 6
 #weapon 614
 #twiceborn 3446
+#popkill 1
+#incunrest 20
 #descr "Achaoor's infantry are armored with light and medium armor and armed with various weapons."
 #itemslots 31878
 #armor 8 --- Chain Mail Cuirass / chain cuirass
 #armor 20 --- Iron Cap / ironcap
 #armor 1 --- Buckler / buckler_bronze
 #weapon 17 ---  / axe
+#weapon 609 --- / grab and swallow
 #end
 --- Axemaster (Dantih), Gold: 130, Resources: 35, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
 --- OFFSET DEBUG: 
@@ -906,6 +909,8 @@
 #appetite 6
 #weapon 614
 #twiceborn 3446
+#popkill 1
+#incunrest 20
 #goodleader
 #inspirational 1
 #poormagicleader
@@ -916,6 +921,44 @@
 #armor 118 --- Half Helmet / halfhelmet_iron
 #armor 1 --- Buckler / buckler_bronze
 #weapon 17 ---  / axe
+#weapon 609 --- / grab and swallow
+#end
+
+#newmonster 3595
+#name "Occult Plunderer"
+#spr1 "KeyN3_DBok_Sloniki/Occult_Plunderer_nonatt.tga"
+#spr2 "KeyN3_DBok_Sloniki/Occult_Plunderer.tga"
+#humanoid
+#gcost 40
+#ap 14
+#mapmove 18
+#mor 11
+#mr 14
+#hp 41
+#str 20
+#att 10
+#def 9
+#prec 8
+#enc 3
+#size 4
+#maxage 120
+#skirmisher 1
+#rpcost 39998
+#prot 6
+#older -24
+#swimming
+#appetite 5
+#weapon 614
+#twiceborn 3450
+#popkill 0.5
+#incunrest 15
+#gold 15
+#descr "The Nakan Irregular Guards are stalwart guards who are outfitted with various weapons and all kinds of armor."
+#itemslots 31878
+--armor 7 --- Scale Mail Cuirass / scale cuirass
+#weapon 256 ---  / kryss
+#weapon 252 --- / Club
+#weapon 20 --- / bite
 #end
 --==========================From Sites
 --- Colonel (Dantih), Gold: 205, Resources: 43, Roles: [ranged, elite ranged, sacred ranged] (tusked one archer)
@@ -1288,6 +1331,9 @@
 #mountainrec 3511 --slonik kushaet
 #mountaincom 3516--3517 crabmen. commaner slonikov, kotorie kushaut
 #noforeignrec -- тк они всех призирают
+#mountainrec 3595
+--mountaincom
+--mountaincom
 
 #startsite "Vale of Metals" --Naka sacre
 #startsite "Multidimensional Stone" --achaoor sacreds and super mages
