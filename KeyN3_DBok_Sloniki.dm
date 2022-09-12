@@ -960,6 +960,84 @@
 #weapon 252 --- / Club
 #weapon 20 --- / bite
 #end
+
+#newmonster 3596
+#name "Occult Initiate"
+#spr1 "KeyN3_DBok_Sloniki/Occult_Initiate.tga"
+#spr2 "KeyN3_DBok_Sloniki/Occult_Initiate_att.tga"
+#humanoid
+#gcost 105
+#ap 16
+#mapmove 20
+#mor 13
+#mr 14
+#hp 52
+#str 22
+#att 10
+#def 9
+#prec 8
+#enc 2
+#size 5
+#maxage 120
+#rpcost 2
+#prot 9
+#swimming
+#appetite 6
+#weapon 614
+#twiceborn 3446
+#popkill 0.5
+#incunrest 15
+--magicskill 3 1
+#magicskill 7 1
+#douse 1
+#poorleader
+#descr "The Fledgling Secret Oracles are fledgling mages of earth magic. Achaoor's Fledgling Secret Oracles are inexperienced officers whose mandates are enacted by their minions."
+#itemslots 31878
+#weapon 800 ---  / CUSTOM enchanted cryss
+#armor 159 --- Imperial Robes / kimono1
+#weapon 20 --- / bite
+#end
+
+#newmonster 3597
+#name "Occult Master"
+#spr1 "KeyN3_DBok_Sloniki/Occult_Master.tga"
+#spr2 "KeyN3_DBok_Sloniki/Occult_Master_att.tga"
+#humanoid
+#gcost 305
+#ap 16
+#mapmove 20
+#mor 13
+#mr 17
+#hp 52
+#str 22
+#att 10
+#def 9
+#prec 8
+#enc 2
+#size 5
+#maxage 120
+#rpcost 2
+#prot 9
+#swimming
+#appetite 6
+#weapon 614
+#twiceborn 3446
+#popkill 0.5
+#incunrest 15
+--magicskill 3 2 --Earth
+--magicskill 4 2 --Strl
+--magicskill 8 1 --pries
+#magicskill 7 2
+#custommagic 17408 50 --+1B or E 50%
+#custommagic 17408 10 --same but 10%
+#poorleader
+--holy
+#descr "The Adept Secret Oracles of Achaoor are experienced in earth and astral magic. The Adept Secret Oracles are respected for their studies and are allowed a place in Achaoor's religious hierarchy. Achaoor's Adept Secret Oracles are inexperienced leaders whose plans are carried out by their guardians."
+#itemslots 31878
+#weapon 238 ---/orb staff
+#armor 159 --- Imperial Robes / kimono_dark4
+#weapon 20 --- / bite
+#end
 --==========================From Sites
 --- Colonel (Dantih), Gold: 205, Resources: 43, Roles: [ranged, elite ranged, sacred ranged] (tusked one archer)
 --- OFFSET DEBUG: 
@@ -1303,8 +1381,12 @@
 #name "Bokia"
 #epithet "Hungry Olifants"
 #descr "Bokia - temporal name - is a realm of an enlightened Olifants, which are humanoid elephants, created by the divine will. Bokian society highly values its own traditions, however, they're questionable sometimes, as olifants consider themselves superior to lesser ones. This lesser races indeed would have a terrible fate in Bokia, as slaves in Mountain of Metals, or as a food for the Man-Eaters - hated neighbours that left the wisdom to follow grim practices in a mountains. However, they're being ignored as they makes trouble only for lesser ones."
-#summary "to do"
-#brief "Man-eater olifants"
+#summary "Prefers hot scale +1
+Race: Olipfants, cultists in mountains.
+Millitary: Heavy expensive infantry, some exotic cult troops.
+Magic: Extremely powerful earth, powerful astral and blood. Minor water and nature. Enjoys meteors.
+Priests: Average."
+#brief "Nation of enlightened oliphants and their bloody neighbours"
 #color 0.2 1.0 1.0
 #flag "nationgen_olifants/125-bawabad/flag.tga"
 
@@ -1331,9 +1413,9 @@
 #mountainrec 3511 --slonik kushaet
 #mountaincom 3516--3517 crabmen. commaner slonikov, kotorie kushaut
 #noforeignrec -- тк они всех призирают
-#mountainrec 3595
---mountaincom
---mountaincom
+#mountainrec 3595 --Plunderer
+#mountaincom 3596 --Initiate
+#mountaincom 3597 --Master
 
 #startsite "Vale of Metals" --Naka sacre
 #startsite "Multidimensional Stone" --achaoor sacreds and super mages
